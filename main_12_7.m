@@ -5,9 +5,9 @@
 clc
 clear
 close all
-addpath('D:\release\piotr_toolbox');
+addpath('C:\Users\Text\Desktop\edge box\release\piotr_toolbox');
 addpath(genpath(pwd));
-addpath('F:\Program Files\matlab\toolbox');
+addpath('C:\Program Files\MATLAB\R2014a\toolbox');
 % Parameters for EdgeBox
 model=load('models/forest/modelBsds'); model=model.model;
 model.opts.multiscale=0; model.opts.sharpen=2; model.opts.nThreads=4;
@@ -16,7 +16,7 @@ opts.alpha = .65;     % step size of sliding window search
 opts.beta  = .75;     % nms threshold for object proposals
 opts.minScore = .01;  % min score of boxes to detect
 opts.maxBoxes = 1e4;  % max number of boxes to detect
-do_dir='D:\release\edgebox-contour-neumann三种检测方法的比较\';
+do_dir='C:\Users\Text\Desktop\edgebox-contour-neumann三种检测方法的比较\';
 dir_img = dir([do_dir 'train-textloc\*.jpg'] );
 num_img = length(dir_img);
 precision = []; recall = []; fscore = [];
