@@ -1,5 +1,5 @@
 % 12/9 DICT&WRA
-
+%12/16 debug
 function fine_localization_dict_wra(img_gt,gtRes2,g)
 addpath(genpath('../detectorDemo'));
 run model_release/matconvnet/matlab/vl_setupnn.m
@@ -119,7 +119,11 @@ else
                 % for bidx = 1:numbbox
             end %一个粗定位文本行内，检测到几个细定位bboxes，然后处理每一个bbox
             % for i=1:size(gtRes2,1)
-            post_precess(im,numbbox,wbboxes,predwords,thresh,img_gt);
+            if ~exist('pre_numbbox')
+            pre_numbbox=0;
+            end
+            pre_numbbox_temp=post_precess(im,numbbox,wbboxes,predwords,thresh,img_gt,pre_numbbox);
+            pre_numbbox=pre_numbbox_temp;
         end %看有几个粗定位文本行，然后处理每一个粗定位文本行
         % if size(gtRes2,1)>1
     end %粗定位检测到多个文本行的情况

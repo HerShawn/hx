@@ -1,8 +1,9 @@
 % 2015/12/7
 % 后处理/测评
+% 2015/12/16 修改一个严重bug
 
-function post_precess(im,numbbox1,wbboxes,predwords,thresh,img_gt)
-global totalPredBbox totalGoodBbox; 
+function numbbox2=post_precess(im,numbbox1,wbboxes,predwords,thresh,img_gt,pre_numbbox)
+global totalPredBbox totalGoodBbox;
 [height, width, ~] = size(im);
 if numbbox1~=0 &&~isempty(wbboxes)
     %remove wbboxes with low recognition scores
@@ -11,7 +12,7 @@ if numbbox1~=0 &&~isempty(wbboxes)
     predwords(bad_idx) = [];
     numbbox2 = size(wbboxes,1);
     pred_taken = zeros(numbbox2,1);
-    for bidx = numbbox2:numbbox2
+    for bidx = (pre_numbbox+1):numbbox2
         if pred_taken(bidx)==0
             x = wbboxes(bidx,1);
             y = wbboxes(bidx,2);
@@ -48,11 +49,11 @@ if numbbox1~=0 &&~isempty(wbboxes)
             %indicator of whether truebboxes are taken
             taken = zeros(length(img_gt),1);
             totalPredBbox = totalPredBbox+1
-            pred_tag = predwords{bidx}  
+            pred_tag = predwords{bidx}
             % iterate over ground truth bboxes
             for tt = 1:size(img_gt,1)
                 % both ground truth and predicted boxes havent been taken, and string matches
-                if taken(tt)==0 && pred_taken(bidx)==0 && strcmpi(strtrim(pred_tag), cell2mat(img_gt(tt,5)))          
+                if taken(tt)==0 && pred_taken(bidx)==0 && strcmpi(strtrim(pred_tag), cell2mat(img_gt(tt,5)))
                     totalGoodBbox = totalGoodBbox+1
                     % predicted and ground truth bboxes are
                     % considered 'taken', so that we don't double count
@@ -62,5 +63,13 @@ if numbbox1~=0 &&~isempty(wbboxes)
             end
         end
     end
+else
+    if  pre_numbbox==0
+        numbbox2=0;
+    else
+        numbbox2 = size(wbboxes,1);
+    end
 end
+
+
 end
