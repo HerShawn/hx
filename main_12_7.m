@@ -5,7 +5,7 @@
 clc
 clear
 close all
-addpath('D:\release\piotr_toolbox');
+addpath('D:\hx\piotr_toolbox');
 addpath(genpath(pwd));
 addpath('F:\Program Files\matlab\toolbox');
 % Parameters for EdgeBox
@@ -16,7 +16,7 @@ opts.alpha = .65;     % step size of sliding window search
 opts.beta  = .75;     % nms threshold for object proposals
 opts.minScore = .01;  % min score of boxes to detect
 opts.maxBoxes = 1e4;  % max number of boxes to detect
-do_dir='D:\release\edgebox-contour-neumann三种检测方法的比较\';
+do_dir='D:\hx\edgebox-contour-neumann\';
 dir_img = dir([do_dir 'train-textloc\*.jpg'] );
 num_img = length(dir_img);
 precision = []; recall = []; fscore = [];
@@ -25,7 +25,7 @@ totalTrueBbox=0;
 totalPredBbox=0;
 totalGoodBbox=0;
 total_edit_distance=0;
-for indexImg =4:4
+for indexImg =7:7
     %% 粗定位阶段
     disp(['第' num2str(indexImg+99) '张图']);
     img_value = dir_img(indexImg).name;
