@@ -1,0 +1,3063 @@
+第100张图
+检测到多个bbox时 GT word "Footpath" no match found
+
+total_edit_distance =
+
+     9
+
+第101张图
+CHAR Detection 0.07s
+Predicted text: dall                   	15.861875
+
+predtag =
+
+dall
+
+
+total_edit_distance =
+
+    10
+
+第102张图
+检测到多个bbox时 GT word "F" no match found
+
+total_edit_distance =
+
+    14
+
+检测到多个bbox时 GT word "R" no match found
+
+total_edit_distance =
+
+    15
+
+检测到多个bbox时 GT word "FOSTER'S" no match found
+
+total_edit_distance =
+
+    23
+
+检测到多个bbox时 GT word "FOSTER'S" no match found
+
+total_edit_distance =
+
+    31
+
+检测到多个bbox时 GT word "FOSTER'S" no match found
+
+total_edit_distance =
+
+    39
+
+第103张图
+检测到多个bbox时 GT word "LODGINGS" no match found
+
+total_edit_distance =
+
+    52
+
+第104张图
+检测到多个bbox时 GT word "MADE" no match found
+
+total_edit_distance =
+
+    59
+
+检测到多个bbox时 GT word "ALES" no match found
+
+total_edit_distance =
+
+    63
+
+第105张图
+第106张图
+第107张图
+检测到多个bbox时 GT word "CONSTRUCTION" no match found
+
+total_edit_distance =
+
+    78
+
+检测到多个bbox时 GT word "SITE" no match found
+
+total_edit_distance =
+
+    82
+
+检测到多个bbox时 GT word "Risk" no match found
+
+total_edit_distance =
+
+    86
+
+检测到多个bbox时 GT word "Serious" no match found
+
+total_edit_distance =
+
+    93
+
+检测到多个bbox时 GT word "Injury" no match found
+
+total_edit_distance =
+
+    99
+
+检测到多个bbox时 GT word "KEEP" no match found
+
+total_edit_distance =
+
+   103
+
+检测到多个bbox时 GT word "OUT" no match found
+
+total_edit_distance =
+
+   106
+
+检测到多个bbox时 GT word "AND" no match found
+
+total_edit_distance =
+
+   109
+
+检测到多个bbox时 GT word "OUT!" no match found
+
+total_edit_distance =
+
+   113
+
+检测到多个bbox时 GT word "KEEP" no match found
+
+total_edit_distance =
+
+   117
+
+检测到多个bbox时 GT word "YOUR" no match found
+
+total_edit_distance =
+
+   121
+
+检测到多个bbox时 GT word "CHILDREN" no match found
+
+total_edit_distance =
+
+   129
+
+第108张图
+检测到多个bbox时 GT word "arlboro" no match found
+
+total_edit_distance =
+
+   136
+
+第109张图
+CHAR Detection 0.07s
+Predicted text: synchasteration        	11.150542
+
+predtag =
+
+synchasteration
+
+
+total_edit_distance =
+
+   142
+
+第110张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+   169
+
+第111张图
+CHAR Detection 0.06s
+Predicted text: d                      	11.865211
+
+predtag =
+
+d
+
+
+total_edit_distance =
+
+   169
+
+第112张图
+检测到多个bbox时 GT word "4B.528" no match found
+
+total_edit_distance =
+
+   181
+
+检测到多个bbox时 GT word "4B.526" no match found
+
+total_edit_distance =
+
+   187
+
+检测到多个bbox时 GT word "HERE" no match found
+
+total_edit_distance =
+
+   191
+
+检测到多个bbox时 GT word "4B.524" no match found
+
+total_edit_distance =
+
+   197
+
+检测到多个bbox时 GT word "4B.522" no match found
+
+total_edit_distance =
+
+   203
+
+第113张图
+CHAR Detection 0.06s
+Predicted text: carling                	24.914675
+
+predtag =
+
+carling
+
+
+total_edit_distance =
+
+   203
+
+第114张图
+第115张图
+CHAR Detection 0.07s
+Predicted text: munissicclidinal       	7.329952
+
+predtag =
+
+munissicclidinal
+
+
+total_edit_distance =
+
+   220
+
+第116张图
+CHAR Detection 0.06s
+Predicted text: coral                  	29.357470
+
+predtag =
+
+coral
+
+
+total_edit_distance =
+
+   220
+
+第117张图
+检测到多个bbox时 GT word "raised" no match found
+
+total_edit_distance =
+
+   235
+
+检测到多个bbox时 GT word "(412")" no match found
+
+total_edit_distance =
+
+   241
+
+第118张图
+第119张图
+CHAR Detection 0.08s
+Predicted text: wavedom                	23.044024
+
+predtag =
+
+wavedom
+
+
+total_edit_distance =
+
+   242
+
+第120张图
+检测到多个bbox时 GT word "DRI-WIPE" no match found
+
+total_edit_distance =
+
+   258
+
+第121张图
+检测到多个bbox时 GT word "Central" no match found
+
+total_edit_distance =
+
+   266
+
+检测到多个bbox时 GT word "M.O.T." no match found
+
+total_edit_distance =
+
+   272
+
+第122张图
+检测到多个bbox时 GT word "COLCHESTER" no match found
+
+total_edit_distance =
+
+   282
+
+第123张图
+检测到多个bbox时 GT word "Knowledge" no match found
+
+total_edit_distance =
+
+   291
+
+检测到多个bbox时 GT word "Management" no match found
+
+total_edit_distance =
+
+   301
+
+检测到多个bbox时 GT word "(KM)" no match found
+
+total_edit_distance =
+
+   305
+
+检测到多个bbox时 GT word "2.10" no match found
+
+total_edit_distance =
+
+   309
+
+第124张图
+检测到多个bbox时 GT word "INVESTMENTS" no match found
+
+total_edit_distance =
+
+   326
+
+检测到多个bbox时 GT word "MORTGAGES" no match found
+
+total_edit_distance =
+
+   335
+
+第125张图
+CHAR Detection 0.07s
+Predicted text: push                   	16.388332
+
+predtag =
+
+push
+
+
+total_edit_distance =
+
+   335
+
+第126张图
+检测到多个bbox时 GT word "Experience" no match found
+
+total_edit_distance =
+
+   355
+
+检测到多个bbox时 GT word "the" no match found
+
+total_edit_distance =
+
+   358
+
+检测到多个bbox时 GT word "Revolution" no match found
+
+total_edit_distance =
+
+   368
+
+检测到多个bbox时 GT word "call" no match found
+
+total_edit_distance =
+
+   372
+
+检测到多个bbox时 GT word "150" no match found
+
+total_edit_distance =
+
+   375
+
+检测到多个bbox时 GT word "and" no match found
+
+total_edit_distance =
+
+   378
+
+检测到多个bbox时 GT word "v70e" no match found
+
+total_edit_distance =
+
+   382
+
+检测到多个bbox时 GT word "press" no match found
+
+total_edit_distance =
+
+   387
+
+检测到多个bbox时 GT word "order" no match found
+
+total_edit_distance =
+
+   392
+
+检测到多个bbox时 GT word "on" no match found
+
+total_edit_distance =
+
+   394
+
+检测到多个bbox时 GT word "your" no match found
+
+total_edit_distance =
+
+   398
+
+第127张图
+检测到多个bbox时 GT word "craete" no match found
+
+total_edit_distance =
+
+   407
+
+第128张图
+CHAR Detection 0.07s
+Predicted text: phllisisiopioee        	11.782163
+
+predtag =
+
+phllisisiopioee
+
+
+total_edit_distance =
+
+   418
+
+第129张图
+CHAR Detection 0.07s
+Predicted text: synchasteration        	10.143705
+
+predtag =
+
+synchasteration
+
+
+total_edit_distance =
+
+   424
+
+第130张图
+检测到多个bbox时 GT word "DIGITAL" no match found
+
+total_edit_distance =
+
+   432
+
+检测到多个bbox时 GT word "LIFE!" no match found
+
+total_edit_distance =
+
+   437
+
+检测到多个bbox时 GT word "YOUR" no match found
+
+total_edit_distance =
+
+   441
+
+检测到多个bbox时 GT word "UPGRADE" no match found
+
+total_edit_distance =
+
+   448
+
+第131张图
+检测到多个bbox时 GT word "The" no match found
+
+total_edit_distance =
+
+   452
+
+第132张图
+检测到多个bbox时 GT word "stands" no match found
+
+total_edit_distance =
+
+   464
+
+检测到多个bbox时 GT word "nothing" no match found
+
+total_edit_distance =
+
+   471
+
+检测到多个bbox时 GT word "need." no match found
+
+total_edit_distance =
+
+   476
+
+检测到多个bbox时 GT word "the" no match found
+
+total_edit_distance =
+
+   479
+
+检测到多个bbox时 GT word "you" no match found
+
+total_edit_distance =
+
+   482
+
+第133张图
+检测到多个bbox时 GT word "Scroll" no match found
+
+total_edit_distance =
+
+   488
+
+检测到多个bbox时 GT word "Num" no match found
+
+total_edit_distance =
+
+   491
+
+检测到多个bbox时 GT word "Lock" no match found
+
+total_edit_distance =
+
+   495
+
+检测到多个bbox时 GT word "Lock" no match found
+
+total_edit_distance =
+
+   499
+
+检测到多个bbox时 GT word "Lock" no match found
+
+total_edit_distance =
+
+   503
+
+检测到多个bbox时 GT word "Viglen" no match found
+
+total_edit_distance =
+
+   509
+
+第134张图
+检测到多个bbox时 GT word "Argos" no match found
+
+total_edit_distance =
+
+   514
+
+第135张图
+第136张图
+第137张图
+检测到多个bbox时 GT word "ESTATE" no match found
+
+total_edit_distance =
+
+   537
+
+检测到多个bbox时 GT word "AGENTS" no match found
+
+total_edit_distance =
+
+   543
+
+第138张图
+CHAR Detection 0.07s
+Predicted text: smirnoff               	9.529805
+
+predtag =
+
+smirnoff
+
+
+total_edit_distance =
+
+   543
+
+第139张图
+检测到多个bbox时 GT word "ROUGH" no match found
+
+total_edit_distance =
+
+   548
+
+检测到多个bbox时 GT word "E" no match found
+
+total_edit_distance =
+
+   549
+
+检测到多个bbox时 GT word "GUIDE" no match found
+
+total_edit_distance =
+
+   554
+
+检测到多个bbox时 GT word "Website" no match found
+
+total_edit_distance =
+
+   561
+
+检测到多个bbox时 GT word "Angus" no match found
+
+total_edit_distance =
+
+   566
+
+检测到多个bbox时 GT word "J." no match found
+
+total_edit_distance =
+
+   568
+
+第140张图
+检测到多个bbox时 GT word "nothing" no match found
+
+total_edit_distance =
+
+   576
+
+检测到多个bbox时 GT word "make" no match found
+
+total_edit_distance =
+
+   580
+
+检测到多个bbox时 GT word "sure" no match found
+
+total_edit_distance =
+
+   584
+
+检测到多个bbox时 GT word "We" no match found
+
+total_edit_distance =
+
+   586
+
+检测到多个bbox时 GT word "need." no match found
+
+total_edit_distance =
+
+   591
+
+检测到多个bbox时 GT word "equipment" no match found
+
+total_edit_distance =
+
+   600
+
+检测到多个bbox时 GT word "the" no match found
+
+total_edit_distance =
+
+   603
+
+检测到多个bbox时 GT word "you" no match found
+
+total_edit_distance =
+
+   606
+
+第141张图
+检测到多个bbox时 GT word "Care" no match found
+
+total_edit_distance =
+
+   612
+
+第142张图
+CHAR Detection 0.06s
+Predicted text: portakabin             	23.754610
+
+predtag =
+
+portakabin
+
+
+total_edit_distance =
+
+   612
+
+第143张图
+检测到多个bbox时 GT word "3''" no match found
+
+total_edit_distance =
+
+   615
+
+检测到多个bbox时 GT word "15'" no match found
+
+total_edit_distance =
+
+   618
+
+第144张图
+检测到多个bbox时 GT word "2.17" no match found
+
+total_edit_distance =
+
+   623
+
+检测到多个bbox时 GT word "Knowledge" no match found
+
+total_edit_distance =
+
+   632
+
+检测到多个bbox时 GT word "Management" no match found
+
+total_edit_distance =
+
+   642
+
+检测到多个bbox时 GT word "(KM)" no match found
+
+total_edit_distance =
+
+   646
+
+检测到多个bbox时 GT word "Dr." no match found
+
+total_edit_distance =
+
+   649
+
+检测到多个bbox时 GT word "Shafait" no match found
+
+total_edit_distance =
+
+   656
+
+检测到多个bbox时 GT word "Multimedia" no match found
+
+total_edit_distance =
+
+   666
+
+检测到多个bbox时 GT word "Analysis" no match found
+
+total_edit_distance =
+
+   674
+
+检测到多个bbox时 GT word "and" no match found
+
+total_edit_distance =
+
+   677
+
+检测到多个bbox时 GT word "Data" no match found
+
+total_edit_distance =
+
+   681
+
+检测到多个bbox时 GT word "Mining" no match found
+
+total_edit_distance =
+
+   687
+
+第145张图
+检测到多个bbox时 GT word "Break" no match found
+
+total_edit_distance =
+
+   694
+
+检测到多个bbox时 GT word "in" no match found
+
+total_edit_distance =
+
+   696
+
+检测到多个bbox时 GT word "of" no match found
+
+total_edit_distance =
+
+   698
+
+检测到多个bbox时 GT word "fire" no match found
+
+total_edit_distance =
+
+   702
+
+第146张图
+CHAR Detection 0.06s
+Predicted text: disinttrneassees       	7.048166
+
+predtag =
+
+disinttrneassees
+
+
+total_edit_distance =
+
+   714
+
+第147张图
+CHAR Detection 0.06s
+Predicted text: lyyan                  	15.826463
+
+predtag =
+
+lyyan
+
+
+total_edit_distance =
+
+   718
+
+第148张图
+CHAR Detection 0.06s
+Predicted text: isstiaatii             	7.857392
+
+predtag =
+
+isstiaatii
+
+
+total_edit_distance =
+
+   728
+
+第149张图
+检测到多个bbox时 GT word "ASDA" no match found
+
+total_edit_distance =
+
+   732
+
+第150张图
+CHAR Detection 0.07s
+Predicted text: bar                    	15.140489
+
+predtag =
+
+bar
+
+
+total_edit_distance =
+
+   732
+
+第151张图
+第152张图
+检测到多个bbox时 GT word "OF" no match found
+
+total_edit_distance =
+
+   749
+
+第153张图
+CHAR Detection 0.07s
+Predicted text: synchasteration        	10.762851
+
+predtag =
+
+synchasteration
+
+
+total_edit_distance =
+
+   755
+
+第154张图
+检测到多个bbox时 GT word "Red" no match found
+
+total_edit_distance =
+
+   761
+
+第155张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+   791
+
+第156张图
+检测到多个bbox时 GT word "4.513B" no match found
+
+total_edit_distance =
+
+   797
+
+检测到多个bbox时 GT word "2N" no match found
+
+total_edit_distance =
+
+   799
+
+检测到多个bbox时 GT word "HELP" no match found
+
+total_edit_distance =
+
+   803
+
+第157张图
+CHAR Detection 0.07s
+Predicted text: campus                 	46.444958
+
+predtag =
+
+campus
+
+
+total_edit_distance =
+
+   803
+
+第158张图
+检测到多个bbox时 GT word "CAMPBELL" no match found
+
+total_edit_distance =
+
+   813
+
+第159张图
+第160张图
+第161张图
+CHAR Detection 0.08s
+Predicted text: de                     	10.746500
+
+predtag =
+
+de
+
+
+total_edit_distance =
+
+   826
+
+第162张图
+第163张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+   867
+
+第164张图
+检测到多个bbox时 GT word "only" no match found
+
+total_edit_distance =
+
+   874
+
+第165张图
+CHAR Detection 0.14s
+Predicted text: heatth                 	20.613243
+
+predtag =
+
+heatth
+
+
+total_edit_distance =
+
+   875
+
+第166张图
+检测到多个bbox时 GT word "Centre" no match found
+
+total_edit_distance =
+
+   889
+
+检测到多个bbox时 GT word "133" no match found
+
+total_edit_distance =
+
+   892
+
+检测到多个bbox时 GT word "Yarmouth" no match found
+
+total_edit_distance =
+
+   900
+
+检测到多个bbox时 GT word "Chelmsford" no match found
+
+total_edit_distance =
+
+   910
+
+检测到多个bbox时 GT word "(A12)" no match found
+
+total_edit_distance =
+
+   915
+
+检测到多个bbox时 GT word "(A12)" no match found
+
+total_edit_distance =
+
+   920
+
+检测到多个bbox时 GT word "(A120)" no match found
+
+total_edit_distance =
+
+   926
+
+第167张图
+检测到多个bbox时 GT word "36" no match found
+
+total_edit_distance =
+
+   937
+
+检测到多个bbox时 GT word "89" no match found
+
+total_edit_distance =
+
+   939
+
+检测到多个bbox时 GT word "ls" no match found
+
+total_edit_distance =
+
+   941
+
+检测到多个bbox时 GT word "250" no match found
+
+total_edit_distance =
+
+   944
+
+检测到多个bbox时 GT word "on" no match found
+
+total_edit_distance =
+
+   946
+
+检测到多个bbox时 GT word "a" no match found
+
+total_edit_distance =
+
+   947
+
+第168张图
+CHAR Detection 0.14s
+Predicted text: oeeeccroou             	18.147745
+
+predtag =
+
+oeeeccroou
+
+
+total_edit_distance =
+
+   952
+
+第169张图
+CHAR Detection 0.14s
+Predicted text: mo                     	7.428336
+
+predtag =
+
+mo
+
+
+total_edit_distance =
+
+   960
+
+第170张图
+检测到多个bbox时 GT word "skimmed" no match found
+
+total_edit_distance =
+
+   971
+
+第171张图
+CHAR Detection 0.12s
+Predicted text: perr                   	11.458090
+
+predtag =
+
+perr
+
+
+total_edit_distance =
+
+   977
+
+第172张图
+第173张图
+CHAR Detection 0.14s
+Predicted text: traneoonee             	10.050621
+
+predtag =
+
+traneoonee
+
+
+total_edit_distance =
+
+   987
+
+第174张图
+第175张图
+检测到多个bbox时 GT word "450" no match found
+
+total_edit_distance =
+
+        1001
+
+检测到多个bbox时 GT word "yds" no match found
+
+total_edit_distance =
+
+        1004
+
+第176张图
+第177张图
+检测到多个bbox时 GT word "EXIT" no match found
+
+total_edit_distance =
+
+        1008
+
+第178张图
+检测到多个bbox时 GT word "AND" no match found
+
+total_edit_distance =
+
+        1021
+
+检测到多个bbox时 GT word "CAUSE" no match found
+
+total_edit_distance =
+
+        1026
+
+检测到多个bbox时 GT word "PHYSICAL" no match found
+
+total_edit_distance =
+
+        1034
+
+检测到多个bbox时 GT word "INJURY" no match found
+
+total_edit_distance =
+
+        1040
+
+第179张图
+第180张图
+检测到多个bbox时 GT word "...IM" no match found
+
+total_edit_distance =
+
+        1063
+
+检测到多个bbox时 GT word "RECOVERING!!" no match found
+
+total_edit_distance =
+
+        1075
+
+第181张图
+检测到多个bbox时 GT word "SOAP" no match found
+
+total_edit_distance =
+
+        1087
+
+第182张图
+检测到多个bbox时 GT word "YOU" no match found
+
+total_edit_distance =
+
+        1093
+
+第183张图
+检测到多个bbox时 GT word "Kaiserslautern" no match found
+
+total_edit_distance =
+
+        1113
+
+检测到多个bbox时 GT word "29.04.09" no match found
+
+total_edit_distance =
+
+        1121
+
+第184张图
+检测到多个bbox时 GT word "PANTENE" no match found
+
+total_edit_distance =
+
+        1132
+
+第185张图
+第186张图
+检测到多个bbox时 GT word "FREE" no match found
+
+total_edit_distance =
+
+        1136
+
+检测到多个bbox时 GT word "DELIVERY" no match found
+
+total_edit_distance =
+
+        1144
+
+第187张图
+检测到多个bbox时 GT word "gate" no match found
+
+total_edit_distance =
+
+        1151
+
+第188张图
+CHAR Detection 0.13s
+Predicted text: pocketflass            	20.883984
+
+predtag =
+
+pocketflass
+
+
+total_edit_distance =
+
+        1156
+
+第189张图
+第190张图
+第191张图
+第192张图
+检测到多个bbox时 GT word "Summer" no match found
+
+total_edit_distance =
+
+        1180
+
+第193张图
+检测到多个bbox时 GT word "TOWN!" no match found
+
+total_edit_distance =
+
+        1185
+
+检测到多个bbox时 GT word "THE" no match found
+
+total_edit_distance =
+
+        1188
+
+检测到多个bbox时 GT word "OF" no match found
+
+total_edit_distance =
+
+        1190
+
+检测到多个bbox时 GT word "HEART" no match found
+
+total_edit_distance =
+
+        1195
+
+检测到多个bbox时 GT word "THE" no match found
+
+total_edit_distance =
+
+        1198
+
+检测到多个bbox时 GT word "AT" no match found
+
+total_edit_distance =
+
+        1200
+
+第194张图
+检测到多个bbox时 GT word "car" no match found
+
+total_edit_distance =
+
+        1206
+
+第195张图
+第196张图
+检测到多个bbox时 GT word "Thank" no match found
+
+total_edit_distance =
+
+        1235
+
+第197张图
+检测到多个bbox时 GT word "The" no match found
+
+total_edit_distance =
+
+        1240
+
+检测到多个bbox时 GT word "SAD" no match found
+
+total_edit_distance =
+
+        1243
+
+检测到多个bbox时 GT word "Cafe" no match found
+
+total_edit_distance =
+
+        1247
+
+第198张图
+检测到多个bbox时 GT word "R" no match found
+
+total_edit_distance =
+
+        1251
+
+检测到多个bbox时 GT word "invent" no match found
+
+total_edit_distance =
+
+        1257
+
+第199张图
+第200张图
+检测到多个bbox时 GT word "Java" no match found
+
+total_edit_distance =
+
+        1274
+
+检测到多个bbox时 GT word "TM" no match found
+
+total_edit_distance =
+
+        1276
+
+检测到多个bbox时 GT word "Guy" no match found
+
+total_edit_distance =
+
+        1279
+
+检测到多个bbox时 GT word "Steele" no match found
+
+total_edit_distance =
+
+        1285
+
+第201张图
+第202张图
+第203张图
+CHAR Detection 0.14s
+Predicted text: ils                    	12.146170
+
+predtag =
+
+ils
+
+
+total_edit_distance =
+
+        1288
+
+第204张图
+检测到多个bbox时 GT word "Box" no match found
+
+total_edit_distance =
+
+        1292
+
+第205张图
+检测到多个bbox时 GT word "ONCEPTS" no match found
+
+total_edit_distance =
+
+        1304
+
+检测到多个bbox时 GT word "fIFTH" no match found
+
+total_edit_distance =
+
+        1309
+
+检测到多个bbox时 GT word "SILBERSCHATZ" no match found
+
+total_edit_distance =
+
+        1321
+
+第206张图
+检测到多个bbox时 GT word "ORDER" no match found
+
+total_edit_distance =
+
+        1328
+
+检测到多个bbox时 GT word "YOUR" no match found
+
+total_edit_distance =
+
+        1332
+
+第207张图
+CHAR Detection 0.13s
+Predicted text: constantine            	30.768536
+
+predtag =
+
+constantine
+
+
+total_edit_distance =
+
+        1343
+
+第208张图
+检测到多个bbox时 GT word "No" no match found
+
+total_edit_distance =
+
+        1347
+
+第209张图
+检测到多个bbox时 GT word "Brolly?" no match found
+
+total_edit_distance =
+
+        1363
+
+检测到多个bbox时 GT word "a" no match found
+
+total_edit_distance =
+
+        1364
+
+检测到多个bbox时 GT word "Ask!" no match found
+
+total_edit_distance =
+
+        1368
+
+检测到多个bbox时 GT word "-" no match found
+
+total_edit_distance =
+
+        1369
+
+第210张图
+第211张图
+检测到多个bbox时 GT word "Miralejo" no match found
+
+total_edit_distance =
+
+        1379
+
+第212张图
+CHAR Detection 0.14s
+Predicted text: snathest               	19.246241
+
+predtag =
+
+snathest
+
+
+total_edit_distance =
+
+        1381
+
+第213张图
+检测到多个bbox时 GT word "bank" no match found
+
+total_edit_distance =
+
+        1396
+
+第214张图
+第215张图
+第216张图
+CHAR Detection 0.14s
+Predicted text: summertooo             	15.122725
+
+predtag =
+
+summertooo
+
+
+total_edit_distance =
+
+        1400
+
+第217张图
+检测到多个bbox时 GT word "HAIR" no match found
+
+total_edit_distance =
+
+        1404
+
+第218张图
+CHAR Detection 0.07s
+Predicted text: panas                  	32.421368
+
+predtag =
+
+panas
+
+
+total_edit_distance =
+
+        1409
+
+第219张图
+第220张图
+检测到多个bbox时 GT word "OF" no match found
+
+total_edit_distance =
+
+        1417
+
+第221张图
+CHAR Detection 0.15s
+Predicted text: gene                   	13.233174
+
+predtag =
+
+gene
+
+
+total_edit_distance =
+
+        1418
+
+第222张图
+第223张图
+CHAR Detection 0.14s
+Predicted text: hungry                 	33.525864
+
+predtag =
+
+hungry
+
+
+total_edit_distance =
+
+        1419
+
+第224张图
+检测到多个bbox时 GT word "Time/system" no match found
+
+total_edit_distance =
+
+        1431
+
+第225张图
+检测到多个bbox时 GT word "apter" no match found
+
+total_edit_distance =
+
+        1441
+
+检测到多个bbox时 GT word "A4382" no match found
+
+total_edit_distance =
+
+        1446
+
+检测到多个bbox时 GT word "Nokia" no match found
+
+total_edit_distance =
+
+        1451
+
+检测到多个bbox时 GT word "6210" no match found
+
+total_edit_distance =
+
+        1455
+
+检测到多个bbox时 GT word "DLR-3P" no match found
+
+total_edit_distance =
+
+        1461
+
+检测到多个bbox时 GT word "Data" no match found
+
+total_edit_distance =
+
+        1465
+
+检测到多个bbox时 GT word "Cable" no match found
+
+total_edit_distance =
+
+        1470
+
+第226张图
+第227张图
+检测到多个bbox时 GT word "1" no match found
+
+total_edit_distance =
+
+        1475
+
+检测到多个bbox时 GT word "DI" no match found
+
+total_edit_distance =
+
+        1477
+
+检测到多个bbox时 GT word "22." no match found
+
+total_edit_distance =
+
+        1480
+
+检测到多个bbox时 GT word "03." no match found
+
+total_edit_distance =
+
+        1483
+
+检测到多个bbox时 GT word "11" no match found
+
+total_edit_distance =
+
+        1485
+
+检测到多个bbox时 GT word "DFKI" no match found
+
+total_edit_distance =
+
+        1489
+
+检测到多个bbox时 GT word "KL" no match found
+
+total_edit_distance =
+
+        1491
+
+检测到多个bbox时 GT word ">" no match found
+
+total_edit_distance =
+
+        1492
+
+检测到多个bbox时 GT word "Anrufliste" no match found
+
+total_edit_distance =
+
+        1502
+
+第228张图
+CHAR Detection 0.14s
+Predicted text: rayleigh               	37.731010
+
+predtag =
+
+rayleigh
+
+
+total_edit_distance =
+
+        1502
+
+第229张图
+第230张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+        1526
+
+第231张图
+CHAR Detection 0.07s
+Predicted text: loungg                 	19.768955
+
+predtag =
+
+loungg
+
+
+total_edit_distance =
+
+        1527
+
+第232张图
+检测到多个bbox时 GT word "MAIL" no match found
+
+total_edit_distance =
+
+        1534
+
+检测到多个bbox时 GT word "E11R" no match found
+
+total_edit_distance =
+
+        1538
+
+第233张图
+第234张图
+检测到多个bbox时 GT word "NO" no match found
+
+total_edit_distance =
+
+        1547
+
+检测到多个bbox时 GT word "RED" no match found
+
+total_edit_distance =
+
+        1550
+
+检测到多个bbox时 GT word "IS" no match found
+
+total_edit_distance =
+
+        1552
+
+第235张图
+CHAR Detection 0.06s
+Predicted text: rclays                 	30.113022
+
+predtag =
+
+rclays
+
+
+total_edit_distance =
+
+        1554
+
+第236张图
+检测到多个bbox时 GT word "with" no match found
+
+total_edit_distance =
+
+        1571
+
+检测到多个bbox时 GT word "Making" no match found
+
+total_edit_distance =
+
+        1577
+
+检测到多个bbox时 GT word "XML" no match found
+
+total_edit_distance =
+
+        1580
+
+检测到多个bbox时 GT word "Sense" no match found
+
+total_edit_distance =
+
+        1585
+
+检测到多个bbox时 GT word "UDDI" no match found
+
+total_edit_distance =
+
+        1589
+
+检测到多个bbox时 GT word "SOAP" no match found
+
+total_edit_distance =
+
+        1593
+
+检测到多个bbox时 GT word "WSDL" no match found
+
+total_edit_distance =
+
+        1597
+
+第237张图
+CHAR Detection 0.06s
+Predicted text: roees                  	10.262258
+
+predtag =
+
+roees
+
+
+total_edit_distance =
+
+        1602
+
+第238张图
+检测到多个bbox时 GT word "TIFICIAL" no match found
+
+total_edit_distance =
+
+        1620
+
+检测到多个bbox时 GT word "NORVIG" no match found
+
+total_edit_distance =
+
+        1626
+
+第239张图
+检测到多个bbox时 GT word "SALOON" no match found
+
+total_edit_distance =
+
+        1632
+
+第240张图
+检测到多个bbox时 GT word "DELL" no match found
+
+total_edit_distance =
+
+        1638
+
+检测到多个bbox时 GT word "8000" no match found
+
+total_edit_distance =
+
+        1642
+
+第241张图
+检测到多个bbox时 GT word "LIFE" no match found
+
+total_edit_distance =
+
+        1653
+
+检测到多个bbox时 GT word "UK" no match found
+
+total_edit_distance =
+
+        1655
+
+检测到多个bbox时 GT word "RESEARCH" no match found
+
+total_edit_distance =
+
+        1663
+
+第242张图
+CHAR Detection 0.08s
+Predicted text: ron                    	9.302480
+
+predtag =
+
+ron
+
+
+total_edit_distance =
+
+        1668
+
+第243张图
+CHAR Detection 0.07s
+Predicted text: ladie                  	17.196541
+
+predtag =
+
+ladie
+
+
+total_edit_distance =
+
+        1669
+
+第244张图
+检测到多个bbox时 GT word "Canon" no match found
+
+total_edit_distance =
+
+        1674
+
+检测到多个bbox时 GT word "PowerShot" no match found
+
+total_edit_distance =
+
+        1683
+
+第245张图
+检测到多个bbox时 GT word "NA" no match found
+
+total_edit_distance =
+
+        1703
+
+检测到多个bbox时 GT word "2" no match found
+
+total_edit_distance =
+
+        1704
+
+检测到多个bbox时 GT word "abc" no match found
+
+total_edit_distance =
+
+        1707
+
+检测到多个bbox时 GT word "1" no match found
+
+total_edit_distance =
+
+        1708
+
+检测到多个bbox时 GT word "Ubernahme" no match found
+
+total_edit_distance =
+
+        1717
+
+检测到多个bbox时 GT word "Lautsprecher" no match found
+
+total_edit_distance =
+
+        1729
+
+检测到多个bbox时 GT word "Anrufliste" no match found
+
+total_edit_distance =
+
+        1739
+
+检测到多个bbox时 GT word "Wahlwiederh." no match found
+
+total_edit_distance =
+
+        1751
+
+第246张图
+CHAR Detection 0.06s
+Predicted text: canon                  	22.290054
+
+predtag =
+
+canon
+
+
+total_edit_distance =
+
+        1751
+
+第247张图
+检测到多个bbox时 GT word "for" no match found
+
+total_edit_distance =
+
+        1759
+
+检测到多个bbox时 GT word "J.E." no match found
+
+total_edit_distance =
+
+        1763
+
+第248张图
+CHAR Detection 0.06s
+Predicted text: mansoll                	18.964270
+
+predtag =
+
+mansoll
+
+
+total_edit_distance =
+
+        1766
+
+第249张图
+检测到多个bbox时 GT word "Infections" no match found
+
+total_edit_distance =
+
+        1796
+
+检测到多个bbox时 GT word "is" no match found
+
+total_edit_distance =
+
+        1798
+
+检测到多个bbox时 GT word "who" no match found
+
+total_edit_distance =
+
+        1801
+
+检测到多个bbox时 GT word "at" no match found
+
+total_edit_distance =
+
+        1803
+
+检测到多个bbox时 GT word "Hypertension:" no match found
+
+total_edit_distance =
+
+        1816
+
+检测到多个bbox时 GT word "International" no match found
+
+total_edit_distance =
+
+        1829
+
+检测到多个bbox时 GT word "in" no match found
+
+total_edit_distance =
+
+        1831
+
+检测到多个bbox时 GT word "Research" no match found
+
+total_edit_distance =
+
+        1839
+
+第250张图
+CHAR Detection 0.07s
+Predicted text: out                    	18.262772
+
+predtag =
+
+out
+
+
+total_edit_distance =
+
+        1842
+
+第251张图
+CHAR Detection 0.07s
+Predicted text: nightline              	32.063614
+
+predtag =
+
+nightline
+
+
+total_edit_distance =
+
+        1842
+
+第252张图
+CHAR Detection 0.06s
+Predicted text: rafcareers             	20.884491
+
+predtag =
+
+rafcareers
+
+
+total_edit_distance =
+
+        1845
+
+第253张图
+CHAR Detection 0.06s
+Predicted text: unlereei               	11.138511
+
+predtag =
+
+unlereei
+
+
+total_edit_distance =
+
+        1852
+
+第254张图
+检测到多个bbox时 GT word "2N" no match found
+
+total_edit_distance =
+
+        1857
+
+检测到多个bbox时 GT word "4B.522" no match found
+
+total_edit_distance =
+
+        1863
+
+检测到多个bbox时 GT word "Dixon" no match found
+
+total_edit_distance =
+
+        1868
+
+第255张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+        1897
+
+第256张图
+第257张图
+CHAR Detection 0.06s
+Predicted text: ouchi                  	14.652920
+
+predtag =
+
+ouchi
+
+
+total_edit_distance =
+
+        1901
+
+第258张图
+检测到多个bbox时 GT word "Colchester" no match found
+
+total_edit_distance =
+
+        1927
+
+检测到多个bbox时 GT word "544444" no match found
+
+total_edit_distance =
+
+        1933
+
+检测到多个bbox时 GT word "PRIVATE" no match found
+
+total_edit_distance =
+
+        1940
+
+检测到多个bbox时 GT word "VEHICLE" no match found
+
+total_edit_distance =
+
+        1947
+
+第259张图
+CHAR Detection 0.07s
+Predicted text: etar                   	7.802497
+
+predtag =
+
+etar
+
+
+total_edit_distance =
+
+        1950
+
+第260张图
+CHAR Detection 0.07s
+Predicted text: lax                    	10.920727
+
+predtag =
+
+lax
+
+
+total_edit_distance =
+
+        1952
+
+第261张图
+CHAR Detection 0.06s
+Predicted text: ezo                    	11.407918
+
+predtag =
+
+ezo
+
+
+total_edit_distance =
+
+        1962
+
+第262张图
+第263张图
+检测到多个bbox时 GT word "Chocomel" no match found
+
+total_edit_distance =
+
+        1975
+
+检测到多个bbox时 GT word "echte" no match found
+
+total_edit_distance =
+
+        1980
+
+检测到多个bbox时 GT word "ENIGE" no match found
+
+total_edit_distance =
+
+        1985
+
+检测到多个bbox时 GT word "DE" no match found
+
+total_edit_distance =
+
+        1987
+
+检测到多个bbox时 GT word "hot" no match found
+
+total_edit_distance =
+
+        1990
+
+检测到多个bbox时 GT word "ACHTERZIJDE" no match found
+
+total_edit_distance =
+
+        2001
+
+检测到多个bbox时 GT word "(ZIE" no match found
+
+total_edit_distance =
+
+        2005
+
+检测到多个bbox时 GT word "padmachines" no match found
+
+total_edit_distance =
+
+        2016
+
+检测到多个bbox时 GT word "R" no match found
+
+total_edit_distance =
+
+        2017
+
+检测到多个bbox时 GT word "Senseo" no match found
+
+total_edit_distance =
+
+        2023
+
+检测到多个bbox时 GT word "5" no match found
+
+total_edit_distance =
+
+        2024
+
+检测到多个bbox时 GT word "4" no match found
+
+total_edit_distance =
+
+        2025
+
+第264张图
+检测到多个bbox时 GT word "LLOYDS" no match found
+
+total_edit_distance =
+
+        2032
+
+第265张图
+检测到多个bbox时 GT word "1.21" no match found
+
+total_edit_distance =
+
+        2039
+
+检测到多个bbox时 GT word "RICOH" no match found
+
+total_edit_distance =
+
+        2044
+
+检测到多个bbox时 GT word "IESE" no match found
+
+total_edit_distance =
+
+        2048
+
+第266张图
+CHAR Detection 0.06s
+Predicted text: wavedom                	36.824318
+
+predtag =
+
+wavedom
+
+
+total_edit_distance =
+
+        2048
+
+第267张图
+CHAR Detection 0.06s
+Predicted text: muliidincldsinil       	8.144242
+
+predtag =
+
+muliidincldsinil
+
+
+total_edit_distance =
+
+        2062
+
+第268张图
+第269张图
+检测到多个bbox时 GT word "Shahab" no match found
+
+total_edit_distance =
+
+        2093
+
+检测到多个bbox时 GT word "2.10" no match found
+
+total_edit_distance =
+
+        2097
+
+第270张图
+CHAR Detection 0.08s
+Predicted text: auturmnmatitaiion      	8.478242
+
+predtag =
+
+auturmnmatitaiion
+
+
+total_edit_distance =
+
+        2107
+
+第271张图
+CHAR Detection 0.07s
+Predicted text: westburnniee           	23.424770
+
+predtag =
+
+westburnniee
+
+
+total_edit_distance =
+
+        2115
+
+第272张图
+CHAR Detection 0.07s
+Predicted text: baesystems             	16.313536
+
+predtag =
+
+baesystems
+
+
+total_edit_distance =
+
+        2122
+
+第273张图
+CHAR Detection 0.06s
+Predicted text: gsn                    	13.077807
+
+predtag =
+
+gsn
+
+
+total_edit_distance =
+
+        2124
+
+第274张图
+CHAR Detection 0.06s
+Predicted text: school                 	29.406742
+
+predtag =
+
+school
+
+
+total_edit_distance =
+
+        2124
+
+第275张图
+第276张图
+CHAR Detection 0.07s
+Predicted text: henry                  	20.899727
+
+predtag =
+
+henry
+
+
+total_edit_distance =
+
+        2124
+
+第277张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+        2153
+
+第278张图
+第279张图
+检测到多个bbox时 GT word "STUDIO" no match found
+
+total_edit_distance =
+
+        2159
+
+第280张图
+检测到多个bbox时 GT word "V03" no match found
+
+total_edit_distance =
+
+        2167
+
+检测到多个bbox时 GT word "art" no match found
+
+total_edit_distance =
+
+        2170
+
+第281张图
+CHAR Detection 0.07s
+Predicted text: feii                   	13.714158
+
+predtag =
+
+feii
+
+
+total_edit_distance =
+
+        2174
+
+第282张图
+检测到多个bbox时 GT word "TO" no match found
+
+total_edit_distance =
+
+        2179
+
+检测到多个bbox时 GT word "BY" no match found
+
+total_edit_distance =
+
+        2181
+
+第283张图
+检测到多个bbox时 GT word "ON" no match found
+
+total_edit_distance =
+
+        2186
+
+检测到多个bbox时 GT word "NO" no match found
+
+total_edit_distance =
+
+        2188
+
+第284张图
+检测到多个bbox时 GT word "ASDA" no match found
+
+total_edit_distance =
+
+        2192
+
+第285张图
+检测到多个bbox时 GT word "in" no match found
+
+total_edit_distance =
+
+        2198
+
+第286张图
+检测到多个bbox时 GT word "you!" no match found
+
+total_edit_distance =
+
+        2211
+
+第287张图
+检测到多个bbox时 GT word "Fire" no match found
+
+total_edit_distance =
+
+        2218
+
+检测到多个bbox时 GT word "alarm" no match found
+
+total_edit_distance =
+
+        2223
+
+检测到多个bbox时 GT word "call" no match found
+
+total_edit_distance =
+
+        2227
+
+第288张图
+检测到多个bbox时 GT word "your" no match found
+
+total_edit_distance =
+
+        2238
+
+检测到多个bbox时 GT word "2010" no match found
+
+total_edit_distance =
+
+        2242
+
+检测到多个bbox时 GT word "Januar" no match found
+
+total_edit_distance =
+
+        2248
+
+检测到多个bbox时 GT word "1" no match found
+
+total_edit_distance =
+
+        2249
+
+检测到多个bbox时 GT word "1" no match found
+
+total_edit_distance =
+
+        2250
+
+检测到多个bbox时 GT word "1" no match found
+
+total_edit_distance =
+
+        2251
+
+检测到多个bbox时 GT word "Di" no match found
+
+total_edit_distance =
+
+        2253
+
+检测到多个bbox时 GT word "Neujahr" no match found
+
+total_edit_distance =
+
+        2260
+
+检测到多个bbox时 GT word "Sa" no match found
+
+total_edit_distance =
+
+        2262
+
+检测到多个bbox时 GT word "Mi" no match found
+
+total_edit_distance =
+
+        2264
+
+第289张图
+第290张图
+CHAR Detection 0.06s
+Predicted text: monoraee               	13.892891
+
+predtag =
+
+monoraee
+
+
+total_edit_distance =
+
+        2271
+
+第291张图
+第292张图
+CHAR Detection 0.07s
+Predicted text: zanussi                	13.230094
+
+predtag =
+
+zanussi
+
+
+total_edit_distance =
+
+        2272
+
+第293张图
+CHAR Detection 0.06s
+Predicted text: lan                    	16.646164
+
+predtag =
+
+lan
+
+
+total_edit_distance =
+
+        2273
+
+第294张图
+CHAR Detection 0.08s
+Predicted text: multidiccoidinily      	8.617105
+
+predtag =
+
+multidiccoidinily
+
+
+total_edit_distance =
+
+        2288
+
+第295张图
+第296张图
+第297张图
+CHAR Detection 0.06s
+Predicted text: cundaryroad            	29.042913
+
+predtag =
+
+cundaryroad
+
+
+total_edit_distance =
+
+        2296
+
+第298张图
+检测到多个bbox时 GT word "Rettungsweg" no match found
+
+total_edit_distance =
+
+        2309
+
+检测到多个bbox时 GT word "Richtungsangabe" no match found
+
+total_edit_distance =
+
+        2324
+
+检测到多个bbox时 GT word "Notausgang" no match found
+
+total_edit_distance =
+
+        2334
+
+检测到多个bbox时 GT word "Rettungsweg/" no match found
+
+total_edit_distance =
+
+        2346
+
+检测到多个bbox时 GT word "hoss" no match found
+
+total_edit_distance =
+
+        2350
+
+检测到多个bbox时 GT word "Standort" no match found
+
+total_edit_distance =
+
+        2358
+
+第299张图
+检测到多个bbox时 GT word "and" no match found
+
+total_edit_distance =
+
+        2364
+
+第300张图
+CHAR Detection 0.06s
+Predicted text: cv                     	13.954424
+
+predtag =
+
+cv
+
+
+total_edit_distance =
+
+        2366
+
+第301张图
+检测到多个bbox时 GT word "Shahab" no match found
+
+total_edit_distance =
+
+        2377
+
+检测到多个bbox时 GT word "2.10" no match found
+
+total_edit_distance =
+
+        2381
+
+第302张图
+第303张图
+检测到多个bbox时 GT word "8017" no match found
+
+total_edit_distance =
+
+        2393
+
+第304张图
+检测到多个bbox时 GT word "refurbishment" no match found
+
+total_edit_distance =
+
+        2423
+
+第305张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+        2450
+
+第306张图
+CHAR Detection 0.06s
+Predicted text: crosystems             	26.078030
+
+predtag =
+
+crosystems
+
+
+total_edit_distance =
+
+        2459
+
+第307张图
+CHAR Detection 0.06s
+Predicted text: connells               	31.373911
+
+predtag =
+
+connells
+
+
+total_edit_distance =
+
+        2459
+
+第308张图
+CHAR Detection 0.07s
+Predicted text: eoos                   	13.996961
+
+predtag =
+
+eoos
+
+
+total_edit_distance =
+
+        2466
+
+第309张图
+CHAR Detection 0.06s
+Predicted text: tie                    	14.444209
+
+predtag =
+
+tie
+
+
+total_edit_distance =
+
+        2469
+
+第310张图
+检测到多个bbox时 DT word "" no match found
+
+total_edit_distance =
+
+        2491
+
+第311张图
+检测到多个bbox时 GT word "YARD" no match found
+
+total_edit_distance =
+
+        2499
+
+第312张图
+CHAR Detection 0.07s
+Predicted text: saneeea                	10.253313
+
+predtag =
+
+saneeea
+
+
+total_edit_distance =
+
+        2506
+
+第313张图
+第314张图
+第315张图
+CHAR Detection 0.06s
+Predicted text: imla                   	11.955946
+
+predtag =
+
+imla
+
+
+total_edit_distance =
+
+        2515
+
+第316张图
+CHAR Detection 0.06s
+Predicted text: odd                    	11.891174
+
+predtag =
+
+odd
+
+
+total_edit_distance =
+
+        2517
+
+第317张图
+CHAR Detection 0.06s
+Predicted text: heeoollarmrss          	15.281373
+
+predtag =
+
+heeoollarmrss
+
+
+total_edit_distance =
+
+        2526
+
+第318张图
+CHAR Detection 0.06s
+Predicted text: lil                    	13.757279
+
+predtag =
+
+lil
+
+
+total_edit_distance =
+
+        2529
+
+第319张图
+检测到多个bbox时 GT word "EXIT" no match found
+
+total_edit_distance =
+
+        2534
+
+检测到多个bbox时 GT word "ON" no match found
+
+total_edit_distance =
+
+        2536
+
+检测到多个bbox时 GT word "4" no match found
+
+total_edit_distance =
+
+        2537
+
+第320张图
+检测到多个bbox时 GT word "LIFE" no match found
+
+total_edit_distance =
+
+        2543
+
+第321张图
+检测到多个bbox时 GT word "Park" no match found
+
+total_edit_distance =
+
+        2551
+
+检测到多个bbox时 GT word "&" no match found
+
+total_edit_distance =
+
+        2552
+
+检测到多个bbox时 GT word "Ride" no match found
+
+total_edit_distance =
+
+        2556
+
+检测到多个bbox时 GT word "only" no match found
+
+total_edit_distance =
+
+        2560
+
+第322张图
+CHAR Detection 0.09s
+Predicted text: guideyfolders          	18.111969
+
+predtag =
+
+guideyfolders
+
+
+total_edit_distance =
+
+        2568
+
+第323张图
+第324张图
+检测到多个bbox时 GT word "EXPERT" no match found
+
+total_edit_distance =
+
+        2579
+
+第325张图
+CHAR Detection 0.07s
+Predicted text: iyaaa                  	14.422009
+
+predtag =
+
+iyaaa
+
+
+total_edit_distance =
+
+        2581
+
+第326张图
+检测到多个bbox时 GT word "COMPACT" no match found
+
+total_edit_distance =
+
+        2589
+
+检测到多个bbox时 GT word "ADAPTER" no match found
+
+total_edit_distance =
+
+        2596
+
+检测到多个bbox时 GT word "POWER" no match found
+
+total_edit_distance =
+
+        2601
+
+检测到多个bbox时 GT word "CA-PS100" no match found
+
+total_edit_distance =
+
+        2609
+
+第327张图
+检测到多个bbox时 GT word "in" no match found
+
+total_edit_distance =
+
+        2615
+
+检测到多个bbox时 GT word "Software" no match found
+
+total_edit_distance =
+
+        2623
+
+检测到多个bbox时 GT word "rowland" no match found
+
+total_edit_distance =
+
+        2630
+
+检测到多个bbox时 GT word "diane" no match found
+
+total_edit_distance =
+
+        2635
+
+检测到多个bbox时 GT word "jack" no match found
+
+total_edit_distance =
+
+        2639
+
+检测到多个bbox时 GT word "eaton" no match found
+
+total_edit_distance =
+
+        2644
+
+检测到多个bbox时 GT word "coleman" no match found
+
+total_edit_distance =
+
+        2651
+
+检测到多个bbox时 GT word "allison" no match found
+
+total_edit_distance =
+
+        2658
+
+检测到多个bbox时 GT word "frank" no match found
+
+total_edit_distance =
+
+        2663
+
+检测到多个bbox时 GT word "bolt" no match found
+
+total_edit_distance =
+
+        2667
+
+第328张图
+检测到多个bbox时 GT word "Info@serviplus.de" no match found
+
+total_edit_distance =
+
+        2707
+
+检测到多个bbox时 GT word "www.serviplus.de" no match found
+
+total_edit_distance =
+
+        2723
+
+TOTAL_EDIT_DISTANCE =2723
+>> 

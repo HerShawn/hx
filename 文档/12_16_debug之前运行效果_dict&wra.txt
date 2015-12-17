@@ -1,0 +1,5156 @@
+
+
+pred_tag =
+
+naismith
+
+
+totalTrueBbox =
+
+   379
+
+第193张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  arena, Recog Score  1.000
+
+totalPredBbox =
+
+   183
+
+
+pred_tag =
+
+arena
+
+
+totalGoodBbox =
+
+    86
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  charlottetown, Recog Score  0.884
+
+totalPredBbox =
+
+   184
+
+
+pred_tag =
+
+charlottetown
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  colchester, Recog Score  1.000
+
+totalPredBbox =
+
+   185
+
+
+pred_tag =
+
+colchester
+
+
+totalGoodBbox =
+
+    87
+
+
+totalTrueBbox =
+
+   387
+
+第194张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  park, Recog Score  0.994
+
+totalPredBbox =
+
+   186
+
+
+pred_tag =
+
+park
+
+
+totalGoodBbox =
+
+    88
+
+Detection 0.10s
+predword  station, Recog Score  1.000
+
+totalPredBbox =
+
+   187
+
+
+pred_tag =
+
+station
+
+
+totalGoodBbox =
+
+    89
+
+
+totalTrueBbox =
+
+   390
+
+第195张图
+Detection 0.10s
+predword  velocity, Recog Score  0.994
+
+totalPredBbox =
+
+   188
+
+
+pred_tag =
+
+velocity
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  tympanists, Recog Score  0.692
+
+totalPredBbox =
+
+   189
+
+
+pred_tag =
+
+tympanists
+
+Detection 0.10s
+predword  mused, Recog Score  0.946
+
+totalPredBbox =
+
+   190
+
+
+pred_tag =
+
+mused
+
+
+totalTrueBbox =
+
+   393
+
+第196张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  minus, Recog Score  0.268
+
+totalPredBbox =
+
+   191
+
+
+pred_tag =
+
+minus
+
+Detection 0.20s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  for, Recog Score  0.829
+
+totalPredBbox =
+
+   192
+
+
+pred_tag =
+
+for
+
+
+totalGoodBbox =
+
+    90
+
+Detection 0.10s
+predword  shiv, Recog Score  0.379
+
+totalPredBbox =
+
+   193
+
+
+pred_tag =
+
+shiv
+
+
+totalTrueBbox =
+
+   399
+
+第197张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.13s
+Detection 0.19s
+predword  sack, Recog Score  0.912
+
+totalPredBbox =
+
+   194
+
+
+pred_tag =
+
+sack
+
+
+totalGoodBbox =
+
+    91
+
+
+totalTrueBbox =
+
+   403
+
+第198张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  invent, Recog Score  0.985
+
+totalPredBbox =
+
+   195
+
+
+pred_tag =
+
+invent
+
+
+totalGoodBbox =
+
+    92
+
+
+totalTrueBbox =
+
+   406
+
+第199张图
+Detection 0.10s
+predword  food, Recog Score  0.922
+
+totalPredBbox =
+
+   196
+
+
+pred_tag =
+
+food
+
+
+totalGoodBbox =
+
+    93
+
+Detection 0.10s
+predword  proper, Recog Score  0.894
+
+totalPredBbox =
+
+   197
+
+
+pred_tag =
+
+proper
+
+
+totalGoodBbox =
+
+    94
+
+Detection 0.10s
+predword  pronto, Recog Score  0.996
+
+totalPredBbox =
+
+   198
+
+
+pred_tag =
+
+pronto
+
+
+totalGoodBbox =
+
+    95
+
+
+totalTrueBbox =
+
+   409
+
+第200张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  ava, Recog Score  1.000
+
+totalPredBbox =
+
+   199
+
+
+pred_tag =
+
+ava
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  guide, Recog Score  1.000
+
+totalPredBbox =
+
+   200
+
+
+pred_tag =
+
+guide
+
+
+totalGoodBbox =
+
+    96
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  steele, Recog Score  1.000
+
+totalPredBbox =
+
+   201
+
+
+pred_tag =
+
+steele
+
+
+totalGoodBbox =
+
+    97
+
+
+totalTrueBbox =
+
+   417
+
+第201张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  surgery, Recog Score  1.000
+
+totalPredBbox =
+
+   202
+
+
+pred_tag =
+
+surgery
+
+
+totalGoodBbox =
+
+    98
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  dental, Recog Score  1.000
+
+totalPredBbox =
+
+   203
+
+
+pred_tag =
+
+dental
+
+
+totalGoodBbox =
+
+    99
+
+
+totalTrueBbox =
+
+   419
+
+第202张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  services, Recog Score  1.000
+
+totalPredBbox =
+
+   204
+
+
+pred_tag =
+
+services
+
+
+totalGoodBbox =
+
+   100
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  office, Recog Score  0.981
+
+totalPredBbox =
+
+   205
+
+
+pred_tag =
+
+office
+
+
+totalGoodBbox =
+
+   101
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  limited, Recog Score  1.000
+
+totalPredBbox =
+
+   206
+
+
+pred_tag =
+
+limited
+
+
+totalGoodBbox =
+
+   102
+
+
+totalTrueBbox =
+
+   425
+
+第203张图
+DICT Detection 0.10s
+ nits	0.512033
+
+totalPredBbox =
+
+   207
+
+
+pred_tag =
+
+nits
+
+
+totalTrueBbox =
+
+   426
+
+第204张图
+Detection 0.11s
+Detection 0.13s
+Detection 0.10s
+predword  statementing, Recog Score  0.621
+
+totalPredBbox =
+
+   208
+
+
+pred_tag =
+
+statementing
+
+
+totalTrueBbox =
+
+   428
+
+第205张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  operating, Recog Score  1.000
+
+totalPredBbox =
+
+   209
+
+
+pred_tag =
+
+operating
+
+
+totalGoodBbox =
+
+   103
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  shaft, Recog Score  0.262
+
+totalPredBbox =
+
+   210
+
+
+pred_tag =
+
+shaft
+
+predword  shaft, Recog Score  0.262
+
+totalPredBbox =
+
+   211
+
+
+pred_tag =
+
+shaft
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  alvin, Recog Score  1.000
+
+totalPredBbox =
+
+   212
+
+
+pred_tag =
+
+alvin
+
+predword  alvin, Recog Score  1.000
+
+totalPredBbox =
+
+   213
+
+
+pred_tag =
+
+alvin
+
+Detection 0.10s
+predword  edition, Recog Score  1.000
+
+totalPredBbox =
+
+   214
+
+
+pred_tag =
+
+edition
+
+
+totalGoodBbox =
+
+   104
+
+predword  edition, Recog Score  1.000
+
+totalPredBbox =
+
+   215
+
+
+pred_tag =
+
+edition
+
+
+totalGoodBbox =
+
+   105
+
+
+totalTrueBbox =
+
+   435
+
+第206张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  suzy, Recog Score  0.565
+
+totalPredBbox =
+
+   216
+
+
+pred_tag =
+
+suzy
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  suzy, Recog Score  0.565
+
+totalPredBbox =
+
+   217
+
+
+pred_tag =
+
+suzy
+
+predword  suzy, Recog Score  0.565
+
+totalPredBbox =
+
+   218
+
+
+pred_tag =
+
+suzy
+
+
+totalTrueBbox =
+
+   438
+
+第207张图
+DICT Detection 0.10s
+ constantine	0.999961
+
+totalPredBbox =
+
+   219
+
+
+pred_tag =
+
+constantine
+
+
+totalTrueBbox =
+
+   439
+
+第208张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  mobile, Recog Score  1.000
+
+totalPredBbox =
+
+   220
+
+
+pred_tag =
+
+mobile
+
+
+totalGoodBbox =
+
+   106
+
+Detection 0.10s
+predword  phones, Recog Score  1.000
+
+totalPredBbox =
+
+   221
+
+
+pred_tag =
+
+phones
+
+
+totalGoodBbox =
+
+   107
+
+
+totalTrueBbox =
+
+   442
+
+第209张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  brolly, Recog Score  1.000
+
+totalPredBbox =
+
+   222
+
+
+pred_tag =
+
+brolly
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  ask, Recog Score  0.543
+
+totalPredBbox =
+
+   223
+
+
+pred_tag =
+
+ask
+
+
+totalTrueBbox =
+
+   448
+
+第210张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  secretary, Recog Score  1.000
+
+totalPredBbox =
+
+   224
+
+
+pred_tag =
+
+secretary
+
+
+totalGoodBbox =
+
+   108
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  for, Recog Score  0.561
+
+totalPredBbox =
+
+   225
+
+
+pred_tag =
+
+for
+
+
+totalGoodBbox =
+
+   109
+
+
+totalTrueBbox =
+
+   452
+
+第211张图
+
+totalTrueBbox =
+
+   453
+
+第212张图
+DICT Detection 0.10s
+ immaturely	0.345738
+
+totalPredBbox =
+
+   226
+
+
+pred_tag =
+
+immaturely
+
+
+totalTrueBbox =
+
+   454
+
+第213张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  ban, Recog Score  0.934
+
+totalPredBbox =
+
+   227
+
+
+pred_tag =
+
+ban
+
+
+totalTrueBbox =
+
+   459
+
+第214张图
+Detection 0.10s
+predword  freephone, Recog Score  1.000
+
+totalPredBbox =
+
+   228
+
+
+pred_tag =
+
+freephone
+
+
+totalGoodBbox =
+
+   110
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  hire, Recog Score  1.000
+
+totalPredBbox =
+
+   229
+
+
+pred_tag =
+
+hire
+
+
+totalGoodBbox =
+
+   111
+
+Detection 0.10s
+predword  customer, Recog Score  1.000
+
+totalPredBbox =
+
+   230
+
+
+pred_tag =
+
+customer
+
+
+totalGoodBbox =
+
+   112
+
+Detection 0.12s
+predword  service, Recog Score  1.000
+
+totalPredBbox =
+
+   231
+
+
+pred_tag =
+
+service
+
+
+totalGoodBbox =
+
+   113
+
+
+totalTrueBbox =
+
+   464
+
+第215张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  pedestrians, Recog Score  1.000
+
+totalPredBbox =
+
+   232
+
+
+pred_tag =
+
+pedestrians
+
+
+totalGoodBbox =
+
+   114
+
+
+totalTrueBbox =
+
+   465
+
+第216张图
+DICT Detection 0.10s
+ shaneybrook	0.482286
+
+totalPredBbox =
+
+   233
+
+
+pred_tag =
+
+shaneybrook
+
+
+totalTrueBbox =
+
+   467
+
+第217张图
+
+totalTrueBbox =
+
+   468
+
+第218张图
+DICT Detection 0.10s
+ danas	0.557927
+
+totalPredBbox =
+
+   234
+
+
+pred_tag =
+
+danas
+
+
+totalTrueBbox =
+
+   470
+
+第219张图
+Detection 0.10s
+predword  tailgater, Recog Score  0.354
+
+totalPredBbox =
+
+   235
+
+
+pred_tag =
+
+tailgater
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  teeth, Recog Score  1.000
+
+totalPredBbox =
+
+   236
+
+
+pred_tag =
+
+teeth
+
+
+totalGoodBbox =
+
+   115
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  a, Recog Score  0.897
+
+totalPredBbox =
+
+   237
+
+
+pred_tag =
+
+a
+
+
+totalTrueBbox =
+
+   473
+
+第220张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  out, Recog Score  0.999
+
+totalPredBbox =
+
+   238
+
+
+pred_tag =
+
+out
+
+
+totalGoodBbox =
+
+   116
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  order, Recog Score  1.000
+
+totalPredBbox =
+
+   239
+
+
+pred_tag =
+
+order
+
+
+totalGoodBbox =
+
+   117
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  sorry, Recog Score  1.000
+
+totalPredBbox =
+
+   240
+
+
+pred_tag =
+
+sorry
+
+
+totalGoodBbox =
+
+   118
+
+
+totalTrueBbox =
+
+   478
+
+第221张图
+DICT Detection 0.10s
+ gene	0.929359
+
+totalPredBbox =
+
+   241
+
+
+pred_tag =
+
+gene
+
+
+totalTrueBbox =
+
+   479
+
+第222张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  council, Recog Score  0.998
+
+totalPredBbox =
+
+   242
+
+
+pred_tag =
+
+council
+
+
+totalGoodBbox =
+
+   119
+
+Detection 0.10s
+predword  libraries, Recog Score  1.000
+
+totalPredBbox =
+
+   243
+
+
+pred_tag =
+
+libraries
+
+
+totalGoodBbox =
+
+   120
+
+
+totalTrueBbox =
+
+   483
+
+第223张图
+DICT Detection 0.10s
+ hungry	0.999996
+
+totalPredBbox =
+
+   244
+
+
+pred_tag =
+
+hungry
+
+
+totalGoodBbox =
+
+   121
+
+
+totalTrueBbox =
+
+   488
+
+第224张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  2008, Recog Score  0.992
+
+totalPredBbox =
+
+   245
+
+
+pred_tag =
+
+2008
+
+
+totalTrueBbox =
+
+   490
+
+第225张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  sp, Recog Score  0.861
+
+totalPredBbox =
+
+   246
+
+
+pred_tag =
+
+sp
+
+Detection 0.10s
+predword  asl, Recog Score  0.700
+
+totalPredBbox =
+
+   247
+
+
+pred_tag =
+
+asl
+
+
+totalTrueBbox =
+
+   500
+
+第226张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  e, Recog Score  0.776
+
+totalPredBbox =
+
+   248
+
+
+pred_tag =
+
+e
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  essex, Recog Score  0.979
+
+totalPredBbox =
+
+   249
+
+
+pred_tag =
+
+essex
+
+
+totalTrueBbox =
+
+   502
+
+第227张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+
+totalTrueBbox =
+
+   511
+
+第228张图
+DICT Detection 0.10s
+ rayleigh	1.000000
+
+totalPredBbox =
+
+   250
+
+
+pred_tag =
+
+rayleigh
+
+
+totalGoodBbox =
+
+   122
+
+
+totalTrueBbox =
+
+   512
+
+第229张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  signals, Recog Score  1.000
+
+totalPredBbox =
+
+   251
+
+
+pred_tag =
+
+signals
+
+
+totalGoodBbox =
+
+   123
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  raffle, Recog Score  0.999
+
+totalPredBbox =
+
+   252
+
+
+pred_tag =
+
+raffle
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.12s
+Detection 0.12s
+Detection 0.13s
+Detection 0.10s
+predword  ahead, Recog Score  1.000
+
+totalPredBbox =
+
+   253
+
+
+pred_tag =
+
+ahead
+
+
+totalGoodBbox =
+
+   124
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  new, Recog Score  0.998
+
+totalPredBbox =
+
+   254
+
+
+pred_tag =
+
+new
+
+
+totalGoodBbox =
+
+   125
+
+
+totalTrueBbox =
+
+   516
+
+第230张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  centre, Recog Score  0.998
+
+totalPredBbox =
+
+   255
+
+
+pred_tag =
+
+centre
+
+
+totalGoodBbox =
+
+   126
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  road, Recog Score  0.999
+
+totalPredBbox =
+
+   256
+
+
+pred_tag =
+
+road
+
+
+totalGoodBbox =
+
+   127
+
+Detection 0.11s
+Detection 0.19s
+Detection 0.10s
+predword  greenstead, Recog Score  1.000
+
+totalPredBbox =
+
+   257
+
+
+pred_tag =
+
+greenstead
+
+
+totalGoodBbox =
+
+   128
+
+
+totalTrueBbox =
+
+   521
+
+第231张图
+DICT Detection 0.10s
+ lounge	0.967507
+
+totalPredBbox =
+
+   258
+
+
+pred_tag =
+
+lounge
+
+
+totalGoodBbox =
+
+   129
+
+
+totalTrueBbox =
+
+   522
+
+第232张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  email, Recog Score  0.997
+
+totalPredBbox =
+
+   259
+
+
+pred_tag =
+
+email
+
+
+totalTrueBbox =
+
+   525
+
+第233张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  relations, Recog Score  1.000
+
+totalPredBbox =
+
+   260
+
+
+pred_tag =
+
+relations
+
+
+totalGoodBbox =
+
+   130
+
+Detection 0.10s
+predword  office, Recog Score  1.000
+
+totalPredBbox =
+
+   261
+
+
+pred_tag =
+
+office
+
+
+totalGoodBbox =
+
+   131
+
+
+totalTrueBbox =
+
+   528
+
+第234张图
+Detection 0.10s
+predword  flashing, Recog Score  1.000
+
+totalPredBbox =
+
+   262
+
+
+pred_tag =
+
+flashing
+
+
+totalGoodBbox =
+
+   132
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  red, Recog Score  0.988
+
+totalPredBbox =
+
+   263
+
+
+pred_tag =
+
+red
+
+
+totalGoodBbox =
+
+   133
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  entry, Recog Score  1.000
+
+totalPredBbox =
+
+   264
+
+
+pred_tag =
+
+entry
+
+
+totalGoodBbox =
+
+   134
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  lights, Recog Score  0.989
+
+totalPredBbox =
+
+   265
+
+
+pred_tag =
+
+lights
+
+predword  lights, Recog Score  0.989
+
+totalPredBbox =
+
+   266
+
+
+pred_tag =
+
+lights
+
+
+totalTrueBbox =
+
+   535
+
+第235张图
+DICT Detection 0.10s
+ relays	0.999925
+
+totalPredBbox =
+
+   267
+
+
+pred_tag =
+
+relays
+
+
+totalTrueBbox =
+
+   536
+
+第236张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.12s
+Detection 0.10s
+predword  java, Recog Score  0.973
+
+totalPredBbox =
+
+   268
+
+
+pred_tag =
+
+java
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  outargued, Recog Score  0.212
+
+totalPredBbox =
+
+   269
+
+
+pred_tag =
+
+outargued
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  sophisticated, Recog Score  0.378
+
+totalPredBbox =
+
+   270
+
+
+pred_tag =
+
+sophisticated
+
+
+totalTrueBbox =
+
+   549
+
+第237张图
+DICT Detection 0.10s
+ 1996	0.025981
+
+totalPredBbox =
+
+   271
+
+
+pred_tag =
+
+1996
+
+
+totalTrueBbox =
+
+   552
+
+第238张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  inge, Recog Score  0.635
+
+totalPredBbox =
+
+   272
+
+
+pred_tag =
+
+inge
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.12s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  al, Recog Score  0.893
+
+totalPredBbox =
+
+   273
+
+
+pred_tag =
+
+al
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  approach, Recog Score  1.000
+
+totalPredBbox =
+
+   274
+
+
+pred_tag =
+
+approach
+
+
+totalGoodBbox =
+
+   135
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  stuart, Recog Score  1.000
+
+totalPredBbox =
+
+   275
+
+
+pred_tag =
+
+stuart
+
+
+totalGoodBbox =
+
+   136
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  peter, Recog Score  0.995
+
+totalPredBbox =
+
+   276
+
+
+pred_tag =
+
+peter
+
+
+totalGoodBbox =
+
+   137
+
+Detection 0.10s
+predword  used, Recog Score  0.901
+
+totalPredBbox =
+
+   277
+
+
+pred_tag =
+
+used
+
+
+totalTrueBbox =
+
+   561
+
+第239张图
+
+totalTrueBbox =
+
+   562
+
+第240张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.12s
+Detection 0.10s
+Detection 0.10s
+predword  1600, Recog Score  0.951
+
+totalPredBbox =
+
+   278
+
+
+pred_tag =
+
+1600
+
+
+totalTrueBbox =
+
+   566
+
+第241张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  exorcise, Recog Score  0.509
+
+totalPredBbox =
+
+   279
+
+
+pred_tag =
+
+exorcise
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  researching, Recog Score  0.998
+
+totalPredBbox =
+
+   280
+
+
+pred_tag =
+
+researching
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  tesco, Recog Score  0.963
+
+totalPredBbox =
+
+   281
+
+
+pred_tag =
+
+tesco
+
+
+totalGoodBbox =
+
+   138
+
+
+totalTrueBbox =
+
+   573
+
+第242张图
+DICT Detection 0.10s
+ icon	0.548002
+
+totalPredBbox =
+
+   282
+
+
+pred_tag =
+
+icon
+
+
+totalTrueBbox =
+
+   574
+
+第243张图
+DICT Detection 0.10s
+ laddie	0.319123
+
+totalPredBbox =
+
+   283
+
+
+pred_tag =
+
+laddie
+
+
+totalTrueBbox =
+
+   575
+
+第244张图
+
+totalTrueBbox =
+
+   577
+
+第245张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  briefkasten, Recog Score  1.000
+
+totalPredBbox =
+
+   284
+
+
+pred_tag =
+
+briefkasten
+
+
+totalGoodBbox =
+
+   139
+
+Detection 0.10s
+predword  servicemenu, Recog Score  1.000
+
+totalPredBbox =
+
+   285
+
+
+pred_tag =
+
+servicemenu
+
+
+totalGoodBbox =
+
+   140
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.15s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  hebert, Recog Score  0.221
+
+totalPredBbox =
+
+   286
+
+
+pred_tag =
+
+hebert
+
+Detection 0.10s
+predword  bulgar, Recog Score  0.433
+
+totalPredBbox =
+
+   287
+
+
+pred_tag =
+
+bulgar
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  artiste, Recog Score  0.732
+
+totalPredBbox =
+
+   288
+
+
+pred_tag =
+
+artiste
+
+Detection 0.10s
+predword  doers, Recog Score  0.330
+
+totalPredBbox =
+
+   289
+
+
+pred_tag =
+
+doers
+
+
+totalTrueBbox =
+
+   591
+
+第246张图
+DICT Detection 0.10s
+ canon	0.939294
+
+totalPredBbox =
+
+   290
+
+
+pred_tag =
+
+canon
+
+
+totalGoodBbox =
+
+   141
+
+
+totalTrueBbox =
+
+   592
+
+第247张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.22s
+predword  ling, Recog Score  0.997
+
+totalPredBbox =
+
+   291
+
+
+pred_tag =
+
+ling
+
+Detection 0.10s
+predword  systems, Recog Score  1.000
+
+totalPredBbox =
+
+   292
+
+
+pred_tag =
+
+systems
+
+
+totalGoodBbox =
+
+   142
+
+Detection 0.10s
+predword  software, Recog Score  1.000
+
+totalPredBbox =
+
+   293
+
+
+pred_tag =
+
+software
+
+
+totalGoodBbox =
+
+   143
+
+Detection 0.10s
+predword  design, Recog Score  1.000
+
+totalPredBbox =
+
+   294
+
+
+pred_tag =
+
+design
+
+
+totalGoodBbox =
+
+   144
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  time, Recog Score  0.999
+
+totalPredBbox =
+
+   295
+
+
+pred_tag =
+
+time
+
+
+totalTrueBbox =
+
+   599
+
+第248张图
+DICT Detection 0.10s
+ hansel	0.746584
+
+totalPredBbox =
+
+   296
+
+
+pred_tag =
+
+hansel
+
+
+totalTrueBbox =
+
+   600
+
+第249张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  satirists, Recog Score  0.852
+
+totalPredBbox =
+
+   297
+
+
+pred_tag =
+
+satirists
+
+Detection 0.10s
+predword  international, Recog Score  0.997
+
+totalPredBbox =
+
+   298
+
+
+pred_tag =
+
+international
+
+
+totalGoodBbox =
+
+   145
+
+Detection 0.10s
+predword  cooperation, Recog Score  1.000
+
+totalPredBbox =
+
+   299
+
+
+pred_tag =
+
+cooperation
+
+
+totalGoodBbox =
+
+   146
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  natters, Recog Score  0.228
+
+totalPredBbox =
+
+   300
+
+
+pred_tag =
+
+natters
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  research, Recog Score  1.000
+
+totalPredBbox =
+
+   301
+
+
+pred_tag =
+
+research
+
+
+totalGoodBbox =
+
+   147
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  extruded, Recog Score  0.774
+
+totalPredBbox =
+
+   302
+
+
+pred_tag =
+
+extruded
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  genomes, Recog Score  0.991
+
+totalPredBbox =
+
+   303
+
+
+pred_tag =
+
+genomes
+
+
+totalTrueBbox =
+
+   616
+
+第250张图
+DICT Detection 0.10s
+ out	0.997195
+
+totalPredBbox =
+
+   304
+
+
+pred_tag =
+
+out
+
+
+totalGoodBbox =
+
+   148
+
+
+totalTrueBbox =
+
+   618
+
+第251张图
+DICT Detection 0.10s
+ nighttime	0.990329
+
+totalPredBbox =
+
+   305
+
+
+pred_tag =
+
+nighttime
+
+
+totalTrueBbox =
+
+   619
+
+第252张图
+DICT Detection 0.10s
+ referrers	0.345200
+
+totalPredBbox =
+
+   306
+
+
+pred_tag =
+
+referrers
+
+
+totalTrueBbox =
+
+   621
+
+第253张图
+DICT Detection 0.10s
+ ninnies	0.021102
+
+totalPredBbox =
+
+   307
+
+
+pred_tag =
+
+ninnies
+
+
+totalTrueBbox =
+
+   622
+
+第254张图
+Detection 0.12s
+Detection 0.10s
+Detection 0.10s
+predword  office, Recog Score  1.000
+
+totalPredBbox =
+
+   308
+
+
+pred_tag =
+
+office
+
+
+totalGoodBbox =
+
+   149
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  dostoevsky, Recog Score  0.212
+
+totalPredBbox =
+
+   309
+
+
+pred_tag =
+
+dostoevsky
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  yukon, Recog Score  0.462
+
+totalPredBbox =
+
+   310
+
+
+pred_tag =
+
+yukon
+
+
+totalTrueBbox =
+
+   630
+
+第255张图
+Detection 0.10s
+predword  baggage, Recog Score  0.926
+
+totalPredBbox =
+
+   311
+
+
+pred_tag =
+
+baggage
+
+
+totalGoodBbox =
+
+   150
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  cessions, Recog Score  0.480
+
+totalPredBbox =
+
+   312
+
+
+pred_tag =
+
+cessions
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  know, Recog Score  1.000
+
+totalPredBbox =
+
+   313
+
+
+pred_tag =
+
+know
+
+
+totalGoodBbox =
+
+   151
+
+
+totalTrueBbox =
+
+   634
+
+第256张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  colchester, Recog Score  1.000
+
+totalPredBbox =
+
+   314
+
+
+pred_tag =
+
+colchester
+
+
+totalGoodBbox =
+
+   152
+
+
+totalTrueBbox =
+
+   635
+
+第257张图
+DICT Detection 0.10s
+ ouch	0.414392
+
+totalPredBbox =
+
+   315
+
+
+pred_tag =
+
+ouch
+
+
+totalTrueBbox =
+
+   637
+
+第258张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  fours, Recog Score  1.000
+
+totalPredBbox =
+
+   316
+
+
+pred_tag =
+
+fours
+
+
+totalGoodBbox =
+
+   153
+
+Detection 0.10s
+Detection 0.22s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  antivivisectionists, Recog Score  0.499
+
+totalPredBbox =
+
+   317
+
+
+pred_tag =
+
+antivivisectionists
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  shire, Recog Score  0.774
+
+totalPredBbox =
+
+   318
+
+
+pred_tag =
+
+shire
+
+
+totalTrueBbox =
+
+   648
+
+第259张图
+DICT Detection 0.10s
+ eton	0.506032
+
+totalPredBbox =
+
+   319
+
+
+pred_tag =
+
+eton
+
+
+totalTrueBbox =
+
+   649
+
+第260张图
+DICT Detection 0.10s
+ lxi	0.034536
+
+totalPredBbox =
+
+   320
+
+
+pred_tag =
+
+lxi
+
+
+totalTrueBbox =
+
+   650
+
+第261张图
+DICT Detection 0.10s
+ bio	0.199568
+
+totalPredBbox =
+
+   321
+
+
+pred_tag =
+
+bio
+
+
+totalTrueBbox =
+
+   651
+
+第262张图
+Detection 0.10s
+predword  panasonic, Recog Score  1.000
+
+totalPredBbox =
+
+   322
+
+
+pred_tag =
+
+panasonic
+
+
+totalGoodBbox =
+
+   154
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  101, Recog Score  0.486
+
+totalPredBbox =
+
+   323
+
+
+pred_tag =
+
+101
+
+
+totalTrueBbox =
+
+   653
+
+第263张图
+
+totalTrueBbox =
+
+   665
+
+第264张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  bank, Recog Score  0.760
+
+totalPredBbox =
+
+   324
+
+
+pred_tag =
+
+bank
+
+
+totalGoodBbox =
+
+   155
+
+
+totalTrueBbox =
+
+   667
+
+第265张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  floor, Recog Score  1.000
+
+totalPredBbox =
+
+   325
+
+
+pred_tag =
+
+floor
+
+
+totalGoodBbox =
+
+   156
+
+Detection 0.10s
+Detection 0.11s
+Detection 0.13s
+predword  jesse, Recog Score  0.892
+
+totalPredBbox =
+
+   326
+
+
+pred_tag =
+
+jesse
+
+
+totalTrueBbox =
+
+   672
+
+第266张图
+DICT Detection 0.10s
+ wavedom	0.999979
+
+totalPredBbox =
+
+   327
+
+
+pred_tag =
+
+wavedom
+
+
+totalGoodBbox =
+
+   157
+
+
+totalTrueBbox =
+
+   673
+
+第267张图
+DICT Detection 0.10s
+ multidimensional	0.473790
+
+totalPredBbox =
+
+   328
+
+
+pred_tag =
+
+multidimensional
+
+
+totalTrueBbox =
+
+   675
+
+第268张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  occasional, Recog Score  0.954
+
+totalPredBbox =
+
+   329
+
+
+pred_tag =
+
+occasional
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  indication, Recog Score  0.962
+
+totalPredBbox =
+
+   330
+
+
+pred_tag =
+
+indication
+
+
+totalTrueBbox =
+
+   679
+
+第269张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  roseann, Recog Score  0.911
+
+totalPredBbox =
+
+   331
+
+
+pred_tag =
+
+roseann
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  astrakhan, Recog Score  0.732
+
+totalPredBbox =
+
+   332
+
+
+pred_tag =
+
+astrakhan
+
+
+totalTrueBbox =
+
+   684
+
+第270张图
+DICT Detection 0.10s
+ outmaneuvering	0.284213
+
+totalPredBbox =
+
+   333
+
+
+pred_tag =
+
+outmaneuvering
+
+
+totalTrueBbox =
+
+   686
+
+第271张图
+DICT Detection 0.10s
+ inestimable	0.288605
+
+totalPredBbox =
+
+   334
+
+
+pred_tag =
+
+inestimable
+
+
+totalTrueBbox =
+
+   688
+
+第272张图
+DICT Detection 0.10s
+ ecosystems	0.272413
+
+totalPredBbox =
+
+   335
+
+
+pred_tag =
+
+ecosystems
+
+
+totalTrueBbox =
+
+   690
+
+第273张图
+DICT Detection 0.10s
+ gen	0.160973
+
+totalPredBbox =
+
+   336
+
+
+pred_tag =
+
+gen
+
+
+totalTrueBbox =
+
+   691
+
+第274张图
+DICT Detection 0.10s
+ school	1.000000
+
+totalPredBbox =
+
+   337
+
+
+pred_tag =
+
+school
+
+
+totalGoodBbox =
+
+   158
+
+
+totalTrueBbox =
+
+   692
+
+第275张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  house, Recog Score  1.000
+
+totalPredBbox =
+
+   338
+
+
+pred_tag =
+
+house
+
+
+totalGoodBbox =
+
+   159
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.11s
+predword  centre, Recog Score  1.000
+
+totalPredBbox =
+
+   339
+
+
+pred_tag =
+
+centre
+
+
+totalGoodBbox =
+
+   160
+
+
+totalTrueBbox =
+
+   696
+
+第276张图
+DICT Detection 0.12s
+ henry	0.985202
+
+totalPredBbox =
+
+   340
+
+
+pred_tag =
+
+henry
+
+
+totalGoodBbox =
+
+   161
+
+
+totalTrueBbox =
+
+   697
+
+第277张图
+Detection 0.10s
+predword  baggage, Recog Score  0.926
+
+totalPredBbox =
+
+   341
+
+
+pred_tag =
+
+baggage
+
+
+totalGoodBbox =
+
+   162
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  cessions, Recog Score  0.480
+
+totalPredBbox =
+
+   342
+
+
+pred_tag =
+
+cessions
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  know, Recog Score  1.000
+
+totalPredBbox =
+
+   343
+
+
+pred_tag =
+
+know
+
+
+totalGoodBbox =
+
+   163
+
+
+totalTrueBbox =
+
+   701
+
+第278张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.13s
+Detection 0.25s
+predword  specialists, Recog Score  1.000
+
+totalPredBbox =
+
+   344
+
+
+pred_tag =
+
+specialists
+
+
+totalGoodBbox =
+
+   164
+
+
+totalTrueBbox =
+
+   704
+
+第279张图
+Detection 0.10s
+
+totalTrueBbox =
+
+   705
+
+第280张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  106, Recog Score  0.970
+
+totalPredBbox =
+
+   345
+
+
+pred_tag =
+
+106
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  tart, Recog Score  0.821
+
+totalPredBbox =
+
+   346
+
+
+pred_tag =
+
+tart
+
+
+totalTrueBbox =
+
+   709
+
+第281张图
+DICT Detection 0.10s
+ fill	0.172977
+
+totalPredBbox =
+
+   347
+
+
+pred_tag =
+
+fill
+
+
+totalTrueBbox =
+
+   710
+
+第282张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  spencer, Recog Score  1.000
+
+totalPredBbox =
+
+   348
+
+
+pred_tag =
+
+spencer
+
+
+totalGoodBbox =
+
+   165
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  car, Recog Score  1.000
+
+totalPredBbox =
+
+   349
+
+
+pred_tag =
+
+car
+
+
+totalGoodBbox =
+
+   166
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  bloomfield, Recog Score  0.566
+
+totalPredBbox =
+
+   350
+
+
+pred_tag =
+
+bloomfield
+
+
+totalTrueBbox =
+
+   718
+
+第283张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  leas, Recog Score  1.000
+
+totalPredBbox =
+
+   351
+
+
+pred_tag =
+
+leas
+
+Detection 0.10s
+predword  olga, Recog Score  0.980
+
+totalPredBbox =
+
+   352
+
+
+pred_tag =
+
+olga
+
+Detection 0.13s
+Detection 0.13s
+Detection 0.10s
+predword  paper, Recog Score  1.000
+
+totalPredBbox =
+
+   353
+
+
+pred_tag =
+
+paper
+
+
+totalGoodBbox =
+
+   167
+
+Detection 0.10s
+predword  no, Recog Score  0.613
+
+totalPredBbox =
+
+   354
+
+
+pred_tag =
+
+no
+
+
+totalGoodBbox =
+
+   168
+
+
+totalTrueBbox =
+
+   723
+
+第284张图
+
+totalTrueBbox =
+
+   724
+
+第285张图
+Detection 0.10s
+predword  constructs, Recog Score  0.747
+
+totalPredBbox =
+
+   355
+
+
+pred_tag =
+
+constructs
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  germany, Recog Score  1.000
+
+totalPredBbox =
+
+   356
+
+
+pred_tag =
+
+germany
+
+
+totalGoodBbox =
+
+   169
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  made, Recog Score  0.999
+
+totalPredBbox =
+
+   357
+
+
+pred_tag =
+
+made
+
+
+totalGoodBbox =
+
+   170
+
+
+totalTrueBbox =
+
+   728
+
+第286张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  kiwis, Recog Score  0.924
+
+totalPredBbox =
+
+   358
+
+
+pred_tag =
+
+kiwis
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  for, Recog Score  0.703
+
+totalPredBbox =
+
+   359
+
+
+pred_tag =
+
+for
+
+
+totalGoodBbox =
+
+   171
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  thankful, Recog Score  0.983
+
+totalPredBbox =
+
+   360
+
+
+pred_tag =
+
+thankful
+
+
+totalTrueBbox =
+
+   734
+
+第287张图
+Detection 0.10s
+Detection 0.17s
+Detection 0.12s
+predword  ballpoint, Recog Score  0.987
+
+totalPredBbox =
+
+   361
+
+
+pred_tag =
+
+ballpoint
+
+
+totalTrueBbox =
+
+   738
+
+第288张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  fieldwork, Recog Score  0.223
+
+totalPredBbox =
+
+   362
+
+
+pred_tag =
+
+fieldwork
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  process, Recog Score  1.000
+
+totalPredBbox =
+
+   363
+
+
+pred_tag =
+
+process
+
+
+totalGoodBbox =
+
+   172
+
+predword  process, Recog Score  1.000
+
+totalPredBbox =
+
+   364
+
+
+pred_tag =
+
+process
+
+
+totalGoodBbox =
+
+   173
+
+Detection 0.10s
+predword  newark, Recog Score  0.248
+
+totalPredBbox =
+
+   365
+
+
+pred_tag =
+
+newark
+
+
+totalTrueBbox =
+
+   753
+
+第289张图
+Detection 0.10s
+predword  homogenize, Recog Score  0.893
+
+totalPredBbox =
+
+   366
+
+
+pred_tag =
+
+homogenize
+
+
+totalTrueBbox =
+
+   754
+
+第290张图
+DICT Detection 0.10s
+ mediterranean	0.009108
+
+totalPredBbox =
+
+   367
+
+
+pred_tag =
+
+mediterranean
+
+
+totalTrueBbox =
+
+   755
+
+第291张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  crs, Recog Score  0.674
+
+totalPredBbox =
+
+   368
+
+
+pred_tag =
+
+crs
+
+
+totalTrueBbox =
+
+   756
+
+第292张图
+DICT Detection 0.10s
+ gauss	0.332343
+
+totalPredBbox =
+
+   369
+
+
+pred_tag =
+
+gauss
+
+
+totalTrueBbox =
+
+   757
+
+第293张图
+DICT Detection 0.10s
+ ian	0.502414
+
+totalPredBbox =
+
+   370
+
+
+pred_tag =
+
+ian
+
+
+totalTrueBbox =
+
+   758
+
+第294张图
+DICT Detection 0.10s
+ multidimensional	0.590622
+
+totalPredBbox =
+
+   371
+
+
+pred_tag =
+
+multidimensional
+
+
+totalTrueBbox =
+
+   760
+
+第295张图
+Detection 0.10s
+predword  garden, Recog Score  1.000
+
+totalPredBbox =
+
+   372
+
+
+pred_tag =
+
+garden
+
+
+totalGoodBbox =
+
+   174
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  beer, Recog Score  1.000
+
+totalPredBbox =
+
+   373
+
+
+pred_tag =
+
+beer
+
+
+totalGoodBbox =
+
+   175
+
+
+totalTrueBbox =
+
+   762
+
+第296张图
+Detection 0.10s
+predword  tideway, Recog Score  0.701
+
+totalPredBbox =
+
+   374
+
+
+pred_tag =
+
+tideway
+
+Detection 0.12s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  closed, Recog Score  1.000
+
+totalPredBbox =
+
+   375
+
+
+pred_tag =
+
+closed
+
+
+totalGoodBbox =
+
+   176
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  ahead, Recog Score  1.000
+
+totalPredBbox =
+
+   376
+
+
+pred_tag =
+
+ahead
+
+
+totalGoodBbox =
+
+   177
+
+
+totalTrueBbox =
+
+   765
+
+第297张图
+DICT Detection 0.10s
+ quadruped	0.591348
+
+totalPredBbox =
+
+   377
+
+
+pred_tag =
+
+quadruped
+
+
+totalTrueBbox =
+
+   767
+
+第298张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  feuerloscher, Recog Score  1.000
+
+totalPredBbox =
+
+   378
+
+
+pred_tag =
+
+feuerloscher
+
+
+totalGoodBbox =
+
+   178
+
+Detection 0.10s
+predword  treppenraum, Recog Score  1.000
+
+totalPredBbox =
+
+   379
+
+
+pred_tag =
+
+treppenraum
+
+
+totalGoodBbox =
+
+   179
+
+Detection 0.10s
+predword  brandmelder, Recog Score  1.000
+
+totalPredBbox =
+
+   380
+
+
+pred_tag =
+
+brandmelder
+
+
+totalGoodBbox =
+
+   180
+
+
+totalTrueBbox =
+
+   776
+
+第299张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  digital, Recog Score  1.000
+
+totalPredBbox =
+
+   381
+
+
+pred_tag =
+
+digital
+
+
+totalGoodBbox =
+
+   181
+
+Detection 0.10s
+predword  multimedia, Recog Score  1.000
+
+totalPredBbox =
+
+   382
+
+
+pred_tag =
+
+multimedia
+
+
+totalGoodBbox =
+
+   182
+
+Detection 0.10s
+predword  chapman, Recog Score  1.000
+
+totalPredBbox =
+
+   383
+
+
+pred_tag =
+
+chapman
+
+
+totalGoodBbox =
+
+   183
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  wiley, Recog Score  1.000
+
+totalPredBbox =
+
+   384
+
+
+pred_tag =
+
+wiley
+
+
+totalGoodBbox =
+
+   184
+
+Detection 0.13s
+predword  charm, Recog Score  0.988
+
+totalPredBbox =
+
+   385
+
+
+pred_tag =
+
+charm
+
+Detection 0.10s
+predword  nigel, Recog Score  1.000
+
+totalPredBbox =
+
+   386
+
+
+pred_tag =
+
+nigel
+
+
+totalGoodBbox =
+
+   185
+
+Detection 0.10s
+predword  jenny, Recog Score  0.999
+
+totalPredBbox =
+
+   387
+
+
+pred_tag =
+
+jenny
+
+
+totalGoodBbox =
+
+   186
+
+
+totalTrueBbox =
+
+   784
+
+第300张图
+DICT Detection 0.10s
+ cv	0.101750
+
+totalPredBbox =
+
+   388
+
+
+pred_tag =
+
+cv
+
+
+totalTrueBbox =
+
+   786
+
+第301张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  roseann, Recog Score  0.920
+
+totalPredBbox =
+
+   389
+
+
+pred_tag =
+
+roseann
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  astrakhan, Recog Score  0.734
+
+totalPredBbox =
+
+   390
+
+
+pred_tag =
+
+astrakhan
+
+
+totalTrueBbox =
+
+   791
+
+第302张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  glen, Recog Score  1.000
+
+totalPredBbox =
+
+   391
+
+
+pred_tag =
+
+glen
+
+
+totalGoodBbox =
+
+   187
+
+Detection 0.12s
+Detection 0.14s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  compo, Recog Score  0.255
+
+totalPredBbox =
+
+   392
+
+
+pred_tag =
+
+compo
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  and, Recog Score  0.999
+
+totalPredBbox =
+
+   393
+
+
+pred_tag =
+
+and
+
+
+totalGoodBbox =
+
+   188
+
+
+totalTrueBbox =
+
+   796
+
+第303张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  privileged, Recog Score  0.847
+
+totalPredBbox =
+
+   394
+
+
+pred_tag =
+
+privileged
+
+
+totalTrueBbox =
+
+   798
+
+第304张图
+Detection 0.10s
+predword  boardwalk, Recog Score  0.273
+
+totalPredBbox =
+
+   395
+
+
+pred_tag =
+
+boardwalk
+
+Detection 0.13s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  limited, Recog Score  1.000
+
+totalPredBbox =
+
+   396
+
+
+pred_tag =
+
+limited
+
+
+totalGoodBbox =
+
+   189
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  maintenance, Recog Score  1.000
+
+totalPredBbox =
+
+   397
+
+
+pred_tag =
+
+maintenance
+
+
+totalGoodBbox =
+
+   190
+
+
+totalTrueBbox =
+
+   804
+
+第305张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  operation, Recog Score  1.000
+
+totalPredBbox =
+
+   398
+
+
+pred_tag =
+
+operation
+
+
+totalGoodBbox =
+
+   191
+
+Detection 0.22s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  erwin, Recog Score  0.350
+
+totalPredBbox =
+
+   399
+
+
+pred_tag =
+
+erwin
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  erwin, Recog Score  0.350
+
+totalPredBbox =
+
+   400
+
+
+pred_tag =
+
+erwin
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  0, Recog Score  0.406
+
+totalPredBbox =
+
+   401
+
+
+pred_tag =
+
+0
+
+predword  0, Recog Score  0.406
+
+totalPredBbox =
+
+   402
+
+
+pred_tag =
+
+0
+
+
+totalTrueBbox =
+
+   807
+
+第306张图
+DICT Detection 0.10s
+ ecosystems	0.996856
+
+totalPredBbox =
+
+   403
+
+
+pred_tag =
+
+ecosystems
+
+
+totalTrueBbox =
+
+   809
+
+第307张图
+DICT Detection 0.10s
+ councils	0.475972
+
+totalPredBbox =
+
+   404
+
+
+pred_tag =
+
+councils
+
+
+totalTrueBbox =
+
+   810
+
+第308张图
+DICT Detection 0.10s
+ lions	0.776261
+
+totalPredBbox =
+
+   405
+
+
+pred_tag =
+
+lions
+
+
+totalTrueBbox =
+
+   811
+
+第309张图
+DICT Detection 0.11s
+ tie	0.177243
+
+totalPredBbox =
+
+   406
+
+
+pred_tag =
+
+tie
+
+
+totalTrueBbox =
+
+   812
+
+第310张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  garages, Recog Score  1.000
+
+totalPredBbox =
+
+   407
+
+
+pred_tag =
+
+garages
+
+
+totalGoodBbox =
+
+   192
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  abscond, Recog Score  0.272
+
+totalPredBbox =
+
+   408
+
+
+pred_tag =
+
+abscond
+
+
+totalTrueBbox =
+
+   814
+
+第311张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  shops, Recog Score  1.000
+
+totalPredBbox =
+
+   409
+
+
+pred_tag =
+
+shops
+
+
+totalGoodBbox =
+
+   193
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  street, Recog Score  1.000
+
+totalPredBbox =
+
+   410
+
+
+pred_tag =
+
+street
+
+
+totalGoodBbox =
+
+   194
+
+
+totalTrueBbox =
+
+   820
+
+第312张图
+DICT Detection 0.10s
+ wheelchair	0.010528
+
+totalPredBbox =
+
+   411
+
+
+pred_tag =
+
+wheelchair
+
+
+totalTrueBbox =
+
+   821
+
+第313张图
+Detection 0.10s
+Detection 0.14s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  emf, Recog Score  0.824
+
+totalPredBbox =
+
+   412
+
+
+pred_tag =
+
+emf
+
+
+totalTrueBbox =
+
+   822
+
+第314张图
+Detection 0.10s
+predword  klan, Recog Score  0.209
+
+totalPredBbox =
+
+   413
+
+
+pred_tag =
+
+klan
+
+
+totalTrueBbox =
+
+   823
+
+第315张图
+DICT Detection 0.10s
+ imho	0.682444
+
+totalPredBbox =
+
+   414
+
+
+pred_tag =
+
+imho
+
+
+totalTrueBbox =
+
+   824
+
+第316张图
+DICT Detection 0.11s
+ candid	0.049230
+
+totalPredBbox =
+
+   415
+
+
+pred_tag =
+
+candid
+
+
+totalTrueBbox =
+
+   825
+
+第317张图
+DICT Detection 0.10s
+ headquartering	0.472460
+
+totalPredBbox =
+
+   416
+
+
+pred_tag =
+
+headquartering
+
+
+totalTrueBbox =
+
+   828
+
+第318张图
+DICT Detection 0.10s
+ bbl	0.326250
+
+totalPredBbox =
+
+   417
+
+
+pred_tag =
+
+bbl
+
+
+totalTrueBbox =
+
+   829
+
+第319张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  exit, Recog Score  0.998
+
+totalPredBbox =
+
+   418
+
+
+pred_tag =
+
+exit
+
+
+totalGoodBbox =
+
+   195
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  floors, Recog Score  0.970
+
+totalPredBbox =
+
+   419
+
+
+pred_tag =
+
+floors
+
+
+totalTrueBbox =
+
+   834
+
+第320张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  orange, Recog Score  1.000
+
+totalPredBbox =
+
+   420
+
+
+pred_tag =
+
+orange
+
+
+totalGoodBbox =
+
+   196
+
+Detection 0.10s
+predword  juice, Recog Score  1.000
+
+totalPredBbox =
+
+   421
+
+
+pred_tag =
+
+juice
+
+
+totalGoodBbox =
+
+   197
+
+Detection 0.10s
+predword  economy, Recog Score  1.000
+
+totalPredBbox =
+
+   422
+
+
+pred_tag =
+
+economy
+
+
+totalGoodBbox =
+
+   198
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  lonelier, Recog Score  0.857
+
+totalPredBbox =
+
+   423
+
+
+pred_tag =
+
+lonelier
+
+Detection 0.10s
+predword  smashups, Recog Score  0.946
+
+totalPredBbox =
+
+   424
+
+
+pred_tag =
+
+smashups
+
+
+totalTrueBbox =
+
+   840
+
+第321张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  bride, Recog Score  0.936
+
+totalPredBbox =
+
+   425
+
+
+pred_tag =
+
+bride
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  only, Recog Score  1.000
+
+totalPredBbox =
+
+   426
+
+
+pred_tag =
+
+only
+
+
+totalGoodBbox =
+
+   199
+
+
+totalTrueBbox =
+
+   846
+
+第322张图
+DICT Detection 0.19s
+ flibbertigibbets	0.355278
+
+totalPredBbox =
+
+   427
+
+
+pred_tag =
+
+flibbertigibbets
+
+
+totalTrueBbox =
+
+   848
+
+第323张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  campbell, Recog Score  1.000
+
+totalPredBbox =
+
+   428
+
+
+pred_tag =
+
+campbell
+
+
+totalGoodBbox =
+
+   200
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  castle, Recog Score  1.000
+
+totalPredBbox =
+
+   429
+
+
+pred_tag =
+
+castle
+
+
+totalGoodBbox =
+
+   201
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  overthrowing, Recog Score  0.956
+
+totalPredBbox =
+
+   430
+
+
+pred_tag =
+
+overthrowing
+
+
+totalTrueBbox =
+
+   852
+
+第324张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  fairy, Recog Score  0.916
+
+totalPredBbox =
+
+   431
+
+
+pred_tag =
+
+fairy
+
+
+totalGoodBbox =
+
+   202
+
+
+totalTrueBbox =
+
+   854
+
+第325张图
+DICT Detection 0.10s
+ iiyama	0.604510
+
+totalPredBbox =
+
+   432
+
+
+pred_tag =
+
+iiyama
+
+
+totalGoodBbox =
+
+   203
+
+
+totalTrueBbox =
+
+   855
+
+第326张图
+Detection 0.10s
+predword  canon, Recog Score  0.291
+
+totalPredBbox =
+
+   433
+
+
+pred_tag =
+
+canon
+
+
+totalGoodBbox =
+
+   204
+
+predword  canon, Recog Score  0.291
+
+totalPredBbox =
+
+   434
+
+
+pred_tag =
+
+canon
+
+
+totalGoodBbox =
+
+   205
+
+predword  canon, Recog Score  0.291
+
+totalPredBbox =
+
+   435
+
+
+pred_tag =
+
+canon
+
+
+totalGoodBbox =
+
+   206
+
+
+totalTrueBbox =
+
+   860
+
+第327张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  professional, Recog Score  1.000
+
+totalPredBbox =
+
+   436
+
+
+pred_tag =
+
+professional
+
+
+totalGoodBbox =
+
+   207
+
+Detection 0.10s
+predword  engines, Recog Score  0.983
+
+totalPredBbox =
+
+   437
+
+
+pred_tag =
+
+engines
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  issues, Recog Score  1.000
+
+totalPredBbox =
+
+   438
+
+
+pred_tag =
+
+issues
+
+
+totalGoodBbox =
+
+   208
+
+
+totalTrueBbox =
+
+   873
+
+第328张图
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+Detection 0.20s
+Detection 0.13s
+Detection 0.10s
+predword  wade, Recog Score  0.824
+
+totalPredBbox =
+
+   439
+
+
+pred_tag =
+
+wade
+
+predword  wade, Recog Score  0.824
+
+totalPredBbox =
+
+   440
+
+
+pred_tag =
+
+wade
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  wade, Recog Score  0.824
+
+totalPredBbox =
+
+   441
+
+
+pred_tag =
+
+wade
+
+Detection 0.10s
+Detection 0.10s
+Detection 0.10s
+predword  idle, Recog Score  0.544
+
+totalPredBbox =
+
+   442
+
+
+pred_tag =
+
+idle
+
+
+totalTrueBbox =
+
+   878
+
+TOTAL_EDIT_DISTANCE =0
+>> WRA(precision,recall,fscore)
+
+precision =
+
+    0.4706
+
+
+recall =
+
+    0.2369
+
+
+fscore =
+
+    0.3152
+
+>> 
