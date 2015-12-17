@@ -1,3 +1,15 @@
+#2015/12/17忽略大文件夹
+/edgebox-contour-neumann/*
+/detectorDemo/*
+/finetune/*
+/model_release/*
+/models/*
+/piotr_toolbox/*
+/private/*
+
+#2015/12/17忽略的文件
+main_12_7
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
