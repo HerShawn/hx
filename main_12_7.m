@@ -25,7 +25,7 @@ totalTrueBbox=0;
 totalPredBbox=0;
 totalGoodBbox=0;
 total_edit_distance=0;
-for indexImg =7:7
+for indexImg =1:num_img
     %% 粗定位阶段
     disp(['第' num2str(indexImg+99) '张图']);
     img_value = dir_img(indexImg).name;
@@ -53,19 +53,14 @@ for indexImg =7:7
         img_gt(i,5) = {txt_data{5}{i}(:,2:end-1)};
     end
     % 如果neumann%contour没检测到，才用edgebox
-    if size(gt,1)==0
-        gt=coarse_localization(g,model,opts);
-        %     figure(indexImg);
-        %          bbGt('showRes',g,gt,gt);
-        %          save_name=[img_value '.jpg'];
-        %          print(indexImg, '-dpng', save_name);
-    else    %检测到了就不用edgebox，否则很混乱
-        %但是如果后续识别分数不足，再用edgebox，这是integrated思想
-        %     figure(indexImg);
-        %          bbGt('showRes',g,gt,gt);
-        %          save_name=[img_value '.jpg'];
-        %          print(indexImg, '-dpng', save_name);
+    if size(gt,1)==0||size(gt,1)==1
+        gt=coarse_localization(g,gt,model,opts); 
+    else
     end
+    figure(indexImg);
+    bbGt('showRes',g,gt,gt);
+    save_name=[img_value '.jpg'];
+    print(indexImg, '-dpng', save_name);
     %% 粗定位到此结束
     %% 细定位阶段
     %CHAR&WRA
@@ -73,12 +68,12 @@ for indexImg =7:7
     %CHAR&EDIT DISTANCE
 %     fine_localization_12_8(img_gt,gt,g);
     % DICT&WRA
-     fine_localization_dict_wra(img_gt,gt,g);
+%      fine_localization_dict_wra(img_gt,gt,g);
     % DICT&EDIT DISTANCE
 %     fine_localization_dict_ed(img_gt,gt,g);
     %% 细定位到此结束
 end
 %% 测评阶段
 % WRA(precision,recall,fscore);
-fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
+% fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
 %% 测评到此结束
