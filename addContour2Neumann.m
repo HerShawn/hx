@@ -4,14 +4,14 @@
 %因此改回原粗定位bboxes方法，同时做些改进以提高效果。
 clc
 clear
-addpath('F:\Program Files\matlab');
+addpath('C:\Program Files\MATLAB\R2014a');
 addpath(genpath(pwd));
-do_dir='D:\hx\edgebox-contour-neumann\';
+do_dir='D:\hx\hx\edgebox-contour-neumann\';
 dir_img = dir([do_dir 'contour_2011train_detection\*.txt'] );
 num_img = length(dir_img);
-for indexImg = 47:47
+for indexImg = 1:num_img
     img_value = dir_img(indexImg).name;
-    img_value = img_value(1:end-4); 
+    img_value = img_value(1:end-4);
     img_name = [do_dir 'train-textloc\' img_value '.jpg'];
     g = imread(img_name);
     txt_name = [do_dir 'contour_2011train_detection\' img_value '.txt'];
@@ -33,22 +33,22 @@ for indexImg = 47:47
     dt_nm.down=txt_data2{:,4};
     dt_neumann=[max(dt_nm.left,1) max(dt_nm.top,1) dt_nm.right-dt_nm.left  dt_nm.down-dt_nm.top ];
     area_nm = dt_neumann(:,3).*dt_neumann(:,4);
-    area_ct=dt_contour(:,3).*dt_contour(:,4); 
+    area_ct=dt_contour(:,3).*dt_contour(:,4);
     %12/18改进：将抑制contour，变为抑制neumann
     idx_neumann=zeros(size(dt_neumann,1),1);
     for i=1:size(dt_contour,1)
         for j=1:size(dt_neumann,1)
             int_area = rectint(dt_neumann(j,:), dt_contour(i,:))';
-            if double(int_area) / double(area_ct(j))>0.6
+            if double(int_area) / double(area_ct(i))>0.6
                 idx_neumann(j,:)=1;
             end
         end
-    end 
+    end
     dt_neumann(find(idx_neumann),:)=[];
     dt_nc=[dt_neumann;dt_contour];
     dt_area=dt_nc(:,3).*dt_nc(:,4);
     [~,idx]=sort(dt_area,'descend');
-    dt_nc=dt_nc(idx,:); 
+    dt_nc=dt_nc(idx,:);
     idx_nc=zeros(size(dt_nc,1),1);
     for i=1:size(dt_nc,1)
         for j=i+1:size(dt_nc,1)
@@ -59,11 +59,11 @@ for indexImg = 47:47
         end
     end
     dt_nc(find(idx_nc),:)=[];
-    figure(indexImg);
-    bbGt('showRes',g,dt_nc,dt_nc);
-    save_name=[img_value '.jpg'];
-    print(indexImg, '-dpng', save_name);
-    %      target_txt_name = [do_dir 'addContour2Neumann\' img_value '.txt'];
-    %      dlmwrite(target_txt_name, dt_nc,'-append');
-    %     dlmwrite(txt_name, txt_data,'-append');   
+    %     figure(indexImg);
+    %     bbGt('showRes',g,dt_nc,dt_nc);
+    %     save_name=[img_value '.jpg'];
+    %     print(indexImg, '-dpng', save_name);
+    target_txt_name = [do_dir 'addContour2Neumann\' img_value '.txt'];
+    dlmwrite(target_txt_name, dt_nc,'-append');
+    dlmwrite(txt_name, txt_data,'-append');
 end

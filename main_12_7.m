@@ -5,9 +5,9 @@
 clc
 clear
 close all
-addpath('D:\hx\piotr_toolbox');
+addpath('D:\hx\hx\piotr_toolbox');
 addpath(genpath(pwd));
-addpath('F:\Program Files\matlab\toolbox');
+addpath('C:\Program Files\MATLAB\R2014a\toolbox');
 % Parameters for EdgeBox
 model=load('models/forest/modelBsds'); model=model.model;
 model.opts.multiscale=0; model.opts.sharpen=2; model.opts.nThreads=4;
@@ -16,7 +16,7 @@ opts.alpha = .65;     % step size of sliding window search
 opts.beta  = .75;     % nms threshold for object proposals
 opts.minScore = .01;  % min score of boxes to detect
 opts.maxBoxes = 1e4;  % max number of boxes to detect
-do_dir='D:\hx\edgebox-contour-neumann\';
+do_dir='D:\hx\hx\edgebox-contour-neumann\';
 dir_img = dir([do_dir 'train-textloc\*.jpg'] );
 num_img = length(dir_img);
 precision = []; recall = []; fscore = [];
@@ -25,7 +25,7 @@ totalTrueBbox=0;
 totalPredBbox=0;
 totalGoodBbox=0;
 total_edit_distance=0;
-for indexImg =7:7
+for indexImg =1:num_img
     %% 粗定位阶段
     disp(['第' num2str(indexImg+99) '张图']);
     img_value = dir_img(indexImg).name;
@@ -79,6 +79,6 @@ for indexImg =7:7
     %% 细定位到此结束
 end
 %% 测评阶段
-% WRA(precision,recall,fscore);
-fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
+WRA(precision,recall,fscore);
+% fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
 %% 测评到此结束
