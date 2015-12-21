@@ -9,7 +9,7 @@ addpath(genpath(pwd));
 do_dir='D:\hx\edgebox-contour-neumann\';
 dir_img = dir([do_dir 'contour_2011train_detection\*.txt'] );
 num_img = length(dir_img);
-for indexImg = 47:47
+for indexImg = 1:num_img
     img_value = dir_img(indexImg).name;
     img_value = img_value(1:end-4); 
     img_name = [do_dir 'train-textloc\' img_value '.jpg'];
@@ -25,7 +25,7 @@ for indexImg = 47:47
     dt_ct.down=txt_data{:,4};
     dt_contour = [max(dt_ct.left,1) max(dt_ct.top,1) dt_ct.right-dt_ct.left  dt_ct.down-dt_ct.top ];
     fid = fopen(txt_name2);
-    txt_data2 = textscan(fid,'%d,%d,%d,%d,%s');
+    txt_data2 = textscan(fid,'%d,%d,%d,%d');
     fclose(fid);
     dt_nm.left=txt_data2{:,1};
     dt_nm.top =txt_data2{:,2};
@@ -59,11 +59,11 @@ for indexImg = 47:47
         end
     end
     dt_nc(find(idx_nc),:)=[];
-    figure(indexImg);
-    bbGt('showRes',g,dt_nc,dt_nc);
-    save_name=[img_value '.jpg'];
-    print(indexImg, '-dpng', save_name);
-    %      target_txt_name = [do_dir 'addContour2Neumann\' img_value '.txt'];
-    %      dlmwrite(target_txt_name, dt_nc,'-append');
-    %     dlmwrite(txt_name, txt_data,'-append');   
+%     figure(indexImg);
+%     bbGt('showRes',g,dt_nc,dt_nc);
+%     save_name=[img_value '.jpg'];
+%     print(indexImg, '-dpng', save_name);
+         target_txt_name = [do_dir 'addContour2Neumann\' img_value '.txt'];
+         dlmwrite(target_txt_name, dt_nc);
+%         dlmwrite(txt_name, txt_data,'-append');   
 end

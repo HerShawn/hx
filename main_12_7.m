@@ -57,13 +57,13 @@ for indexImg =1:num_img
         gt=coarse_localization(g,gt,model,opts);
     else
     end
-    %     figure(indexImg);
-    %     bbGt('showRes',g,gt,gt);
-    %     save_name=[img_value '.jpg'];
-    %     print(indexImg, '-dpng', save_name);
-    target_txt_name = [do_dir 'coarse_localization\' img_value '.txt'];
-    dlmwrite(target_txt_name, gt,'-append');
-%     dlmwrite(txt_name, txt_data,'-append');
+%     figure(indexImg);
+%     bbGt('showRes',g,gt,gt);
+%     save_name=[do_dir 'coarse_localization\' img_value '.jpg'];
+%     print(indexImg, '-dpng', save_name);
+%     target_txt_name = [do_dir 'coarse_localization\' img_value '.txt'];
+%     dlmwrite(target_txt_name, gt);
+
     %% 粗定位到此结束
     %% 细定位阶段
     %CHAR&WRA
@@ -71,12 +71,12 @@ for indexImg =1:num_img
     %CHAR&EDIT DISTANCE
     %     fine_localization_12_8(img_gt,gt,g);
     % DICT&WRA
-    %      fine_localization_dict_wra(img_gt,gt,g);
+         fine_localization_dict_wra(img_gt,gt,g);
     % DICT&EDIT DISTANCE
     %     fine_localization_dict_ed(img_gt,gt,g);
     %% 细定位到此结束
 end
 %% 测评阶段
-% WRA(precision,recall,fscore);
+WRA(precision,recall,fscore);
 % fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
 %% 测评到此结束
