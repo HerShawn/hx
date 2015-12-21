@@ -39,7 +39,7 @@ for indexImg = 47:47
     for i=1:size(dt_contour,1)
         for j=1:size(dt_neumann,1)
             int_area = rectint(dt_neumann(j,:), dt_contour(i,:))';
-            if double(int_area) / double(area_ct(j))>0.6
+            if double(int_area) / double(area_ct(i))>0.6
                 idx_neumann(j,:)=1;
             end
         end
