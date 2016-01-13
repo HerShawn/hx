@@ -21,7 +21,7 @@ if numbbox1~=0 &&~isempty(wbboxes)
             aa = [max(y,1),max(x,1)];% upper left corner
             bb = [max(y,1), min(x+w, width)];% upper right corner
             cc = [min(y+h, height), max(x,1)];% lower left corner
-            fprintf('predword  %s, Recog Score  %2.3f\n', predwords{bidx}, wbboxes(bidx,end));
+            fprintf('=========predword  %s, Recog Score  %2.3f ========\n', predwords{bidx}, wbboxes(bidx,end));
             for worse_idx = (bidx+1):numbbox2 % wbboxes that are worse than the current one
                 if pred_taken(worse_idx)==0
                     x2 = wbboxes(worse_idx,1);
@@ -49,7 +49,7 @@ if numbbox1~=0 &&~isempty(wbboxes)
             %indicator of whether truebboxes are taken
             taken = zeros(length(img_gt),1);
             totalPredBbox = totalPredBbox+1
-            pred_tag = predwords{bidx}
+            pred_tag = predwords{bidx};
             % iterate over ground truth bboxes
             for tt = 1:size(img_gt,1)
                 % both ground truth and predicted boxes havent been taken, and string matches

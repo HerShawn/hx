@@ -1,5 +1,6 @@
 % 12/9 DICT&WRA
 %12/16 debug
+%1/13 将对整个数据集的测评改为对每张图片的测评，并且挑出拉低分数的进行追踪改进。
 function fine_localization_dict_wra(img_gt,gtRes2,g)
 addpath(genpath('../detectorDemo'));
 run model_release/matconvnet/matlab/vl_setupnn.m
@@ -19,22 +20,27 @@ if size(gtRes2,1)==1
     im = im / ((s + 0.0001) / 128.0);
     net = load('dictnet.mat');
     lexicon = load_nostruct('lex.mat');
-    stime = tic;
+%     stime = tic;
     res = vl_simplenn(net, im);
-    fprintf('DICT Detection %.2fs\n', toc(stime));
+%     fprintf('DICT Detection %.2fs\n', toc(stime));
     [score,lexidx] = max(res(end).x(:));
     fprintf(' %s\t%f\n', lexicon{lexidx},score);
     %两者的net是不一样的！！
-    totalPredBbox = totalPredBbox+1
-    pred_tag = lexicon{lexidx}
+    totalPredBbox = totalPredBbox+1;
+    pred_now=1
+    good_ori=totalGoodBbox;
+    pred_tag = lexicon{lexidx};
     for tt = 1:size(img_gt,1)
         if  strcmpi(strtrim(pred_tag), cell2mat(img_gt(tt,5)))
-            totalGoodBbox = totalGoodBbox+1
+            totalGoodBbox = totalGoodBbox+1;
         end
     end
+    good_now=totalGoodBbox-good_ori
 else
     %细定位CNN检测子
     if size(gtRes2,1)>1
+        pred_ori=totalPredBbox;
+        good_ori=totalGoodBbox;
         %对于粗定位得到的每一个文本行：
         for i=1:size(gtRes2,1)
             im=g(max(gtRes2(i,2),1):min((gtRes2(i,2)+gtRes2(i,4)),height),gtRes2(i,1):min((gtRes2(i,1)+gtRes2(i,3)),width));
@@ -122,12 +128,26 @@ else
             if ~exist('pre_numbbox')
             pre_numbbox=0;
             end
+           
             pre_numbbox_temp=post_precess(im,numbbox,wbboxes,predwords,thresh,img_gt,pre_numbbox);
+            
             pre_numbbox=pre_numbbox_temp;
         end %看有几个粗定位文本行，然后处理每一个粗定位文本行
         % if size(gtRes2,1)>1
+        pred_now=totalPredBbox-pred_ori
+        good_now=totalGoodBbox-good_ori
     end %粗定位检测到多个文本行的情况
     % if size(gtRes2,1)==1
 end %粗定位只检测到一个文本行的情况
 totalTrueBbox = totalTrueBbox+size(img_gt,1)
+truth_now=size(img_gt,1)
+
+img_p=good_now/pred_now
+img_r=good_now/truth_now
+if img_p==0&&img_r==0
+    img_f=0
+else
+    img_f =  2*img_p*img_r/(img_p+img_r)
+end
+
 end

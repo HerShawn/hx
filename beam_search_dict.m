@@ -52,9 +52,9 @@ if currseg == 1 % looking at the 1st seg
          subimg = subimg / ((s + 0.0001) / 128.0);
          net = load('dictnet.mat');
          lexicon = load_nostruct('lex.mat');
-         stime = tic;
+%          stime = tic;
          res = vl_simplenn(net, subimg);
-         fprintf('Detection %.2fs\n', toc(stime));
+%          fprintf('Detection %.2fs\n', toc(stime));
          [score,lexidx] = max(res(end).x(:));
 
 %                     net = load('charnet.mat');
@@ -105,9 +105,9 @@ else % looking at subsequent segs
                     subimg = subimg / ((s + 0.0001) / 128.0);
                     net = load('dictnet.mat');
                     lexicon = load_nostruct('lex.mat');
-                    stime = tic;
+%                     stime = tic;
                     res = vl_simplenn(net, subimg);
-                    fprintf('Detection %.2fs\n', toc(stime));
+%                     fprintf('Detection %.2fs\n', toc(stime));
                     [score,lexidx] = max(res(end).x(:));
 
 %                     net = load('charnet.mat');
@@ -175,9 +175,9 @@ else % looking at subsequent segs
                     subimg = subimg / ((s + 0.0001) / 128.0);
                     net = load('dictnet.mat');
                     lexicon = load_nostruct('lex.mat');
-                    stime = tic;
+%                     stime = tic;
                     res = vl_simplenn(net, subimg);
-                    fprintf('Detection %.2fs\n', toc(stime));
+%                     fprintf('Detection %.2fs\n', toc(stime));
                     [score,lexidx] = max(res(end).x(:));
 
 %                     net = load('charnet.mat');
@@ -246,9 +246,9 @@ else % looking at subsequent segs
                     subimg = subimg / ((s + 0.0001) / 128.0);
                     net = load('dictnet.mat');
                     lexicon = load_nostruct('lex.mat');
-                    stime = tic;
+%                     stime = tic;
                     res = vl_simplenn(net, subimg);
-                    fprintf('Detection %.2fs\n', toc(stime));
+%                     fprintf('Detection %.2fs\n', toc(stime));
                     [score,lexidx] = max(res(end).x(:));
 
 %                    net = load('charnet.mat');
