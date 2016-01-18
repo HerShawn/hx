@@ -25,7 +25,7 @@ totalTrueBbox=0;
 totalPredBbox=0;
 totalGoodBbox=0;
 total_edit_distance=0;
-for indexImg =1:4
+for indexImg =40:40
     %% 粗定位阶段
     disp(['第' num2str(indexImg+99) '张图']);
     img_value = dir_img(indexImg).name;

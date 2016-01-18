@@ -78,8 +78,10 @@ else
                     spacescores = spacescores(spacescores>0.7);
                     [orig_sorted_locations, sortidx]= sort(locations(:),'ascend');
                     spacescores = spacescores(sortidx);
+                    % bug:如果一个候选问本行中检测到两个bboxes，那么不该用stdwidth来来结尾！！
                     [stdheight, stdwidth] = size(im);
                     segs = [  [1; orig_sorted_locations] [orig_sorted_locations; stdwidth]];
+                    %                     
                     std_starts = [1; orig_sorted_locations];
                     std_ends = [orig_sorted_locations; stdwidth];
                     numbeams = 10;
@@ -141,8 +143,11 @@ else
 end %粗定位只检测到一个文本行的情况
 totalTrueBbox = totalTrueBbox+size(img_gt,1)
 truth_now=size(img_gt,1)
-
-img_p=good_now/pred_now
+if pred_now==0
+    img_p=0
+else
+    img_p=good_now/pred_now
+end
 img_r=good_now/truth_now
 if img_p==0&&img_r==0
     img_f=0

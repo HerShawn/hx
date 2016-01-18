@@ -17,10 +17,14 @@ img_hight=size(img,1);
 scales=32.0/img_hight;
 % scales = [1.5,1.2:-0.1:0.1];
 % fprintf('Computing responses...\n');
+
 [responses ,scales]= computeResponses(img, filterStack,scales);
+
+% [responses ,scales]= computeResponses_orig(img, filterStack);
+
 % fprintf('Finding lines...\n');
 img_result1 = findBoxesFull(responses,scales);
-% img_result2=visualizeBoxes_12_3(img, img_result1);
+img_result2=visualizeBoxes_12_3(img, img_result1);
 
 % if exist('outputDir')
 %   system(['mkdir -p ', outputDir]);
