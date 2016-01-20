@@ -1,16 +1,17 @@
 % 12/9 DICT&WRA
 %12/16 debug
 %1/13 将对整个数据集的测评改为对每张图片的测评，并且挑出拉低分数的进行追踪改进。
-function fine_localization_dict_wra(img_gt,gtRes2,g)
+function fine_bboxes =fine_localization_dict_wra(img_gt,gtRes2,g)
 addpath(genpath('../detectorDemo'));
 run model_release/matconvnet/matlab/vl_setupnn.m
 global totalTrueBbox totalPredBbox totalGoodBbox;
+fine_bboxes=[];
 wbboxes = [];
 predwords = [];
 [height,width,~] = size(g);
 %如果粗定位后的结果只有一个bounding box，那么直接求识别分数；若不足阈值，再一遍粗定位（CNN？edgebox?)
 % 粗定位只得到一个bbox时，无需beam search/分割；而要做识别和后处理。
-if size(gtRes2,1)==1
+if size(gtRes2,1)==1&&gtRes2(1,3)/gtRes2(1,4)<10
     im=g(max(gtRes2(1,2),1):min((gtRes2(1,2)+gtRes2(1,4)),height),max(gtRes2(1,1),1):min((gtRes2(1,1)+gtRes2(1,3)),width));
     if size(im, 3) > 1, im = rgb2gray(im); end;
     im = imresize(im, [32, 100]);
@@ -38,7 +39,7 @@ if size(gtRes2,1)==1
     good_now=totalGoodBbox-good_ori
 else
     %细定位CNN检测子
-    if size(gtRes2,1)>1
+    if size(gtRes2,1)~=0
         pred_ori=totalPredBbox;
         good_ori=totalGoodBbox;
         %对于粗定位得到的每一个文本行：
@@ -114,12 +115,19 @@ else
                     predscores = states{1}.scores(states{1}.scores>thresh);
                     for ss = 1:length(currwords)
                         tempbbox = zeros(1,5);
+                        tempbbox_1=zeros(1,5);
                         tempbbox(2) = aa(1);
+                        tempbbox_1(2)=gtRes2(i,2);
                         tempbbox(4) = stdheight;
+                        tempbbox_1(4) = tempbbox(4)-1;
                         tempbbox(1) = realstdsegs(ss,1)+aa(2)-1;
+                        tempbbox_1(1) =gtRes2(i,1)+realstdsegs(ss,1);
                         tempbbox(3) = realstdsegs(ss,2)-realstdsegs(ss,1)+1;
+                        tempbbox_1(3) =tempbbox(3)-1;
                         tempbbox(5) = predscores(ss);
+                        tempbbox_1(5)= tempbbox(5);
                         wbboxes = [wbboxes;tempbbox];
+                        fine_bboxes=[fine_bboxes;tempbbox_1];
                         predwords{end+1} = currwords{ss};
                     end
                     %if bboxes(bidx,5)>0.8 && length(spaces(bidx).locations)<5

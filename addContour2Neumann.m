@@ -9,7 +9,7 @@ addpath(genpath(pwd));
 do_dir='D:\hx\edgebox-contour-neumann\';
 dir_img = dir([do_dir 'contour_2011train_detection\*.txt'] );
 num_img = length(dir_img);
-for indexImg = 217:num_img
+for indexImg = 1:num_img
     img_value = dir_img(indexImg).name;
     img_value = img_value(1:end-4); 
     img_name = [do_dir 'train-textloc\' img_value '.jpg'];
@@ -53,7 +53,7 @@ for indexImg = 217:num_img
             %   设计两种改进方式：1.不足0.125才被抑制；2.抑制掉宽高比<1.5的bboxes
             %   1.不足0.125才被抑制
             % if double(int_area) / double(area_ct(i))>0.95&&double(int_area) / double(area_nm(j))>0.125
-             if double(int_area) / double(area_ct(i))>0.95
+             if double(int_area) / double(area_ct(i))>0.85
                 idx_neumann(j,:)=1;
             end
         end
@@ -84,11 +84,13 @@ for indexImg = 217:num_img
         end
     end
     dt_nc(find(idx_nc),:)=[];
-    figure(indexImg);
-    bbGt('showRes',g,dt_nc,dt_nc);
-    save_name=[img_value '.jpg'];
-    print(indexImg, '-dpng', save_name);
+%     figure(indexImg);
+%     bbGt('showRes',g,dt_nc,dt_nc);
+%     save_name=[img_value '.jpg'];
+%     print(indexImg, '-dpng', save_name);
+
 %          target_txt_name = [do_dir 'addContour2Neumann\' img_value '.txt'];
-%          dlmwrite(target_txt_name, dt_nc);
-%         dlmwrite(txt_name, txt_data,'-append');   
+         target_txt_name=[ 'C:\Users\Administrator\Desktop\1.19日粗定位改进试验5（高宽比；重叠》0.85）\' img_value '.txt'];
+         dlmwrite(target_txt_name, dt_nc);
+        dlmwrite(txt_name, txt_data,'-append');   
 end

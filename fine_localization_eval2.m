@@ -1,13 +1,12 @@
 %2015/12/18
 %查看下粗定位测评成绩
-function coarse_localization_eval()
-clear
-clc
+function fine_localization_eval2()
+
 
 % dir_gt = dir('E:\2012 文字检测\测试集\ICDAR 2011\test-textloc-gt\*.txt');
 % dir_gt = dir('G:\数据\icdar2011\test-textloc\*.txt');
 % dir_es = dir('E:\2013毕设文字检测\试验结果\一起训练\location13\*.txt');
-dir_es = dir('D:\hx\edgebox-contour-neumann\coarse_localization2\*.txt');
+dir_es = dir('D:\hx\edgebox-contour-neumann\coarse_localization\*.txt');
 num_img = length(dir_es);
 p_each = zeros(1,num_img);
 r_each = zeros(1,num_img);
@@ -19,12 +18,12 @@ tr = 0.8;
 tp = 0.4;
 % max_t = zeros(5,12);
 
-        for index = 4:4
+        for index = 1:num_img
                  disp(index)
 %             gt_name = ['E:\2012 文字检测\测试集\ICDAR 2011\test-textloc-gt\gt_' dir_es(index).name];
             gt_name = ['D:\hx\edgebox-contour-neumann\train-textloc\gt_' dir_es(index).name];
 %             es_name = ['E:\2013毕设文字检测\试验结果\一起训练\location13\' dir_es(index).name];
-            es_name = ['D:\hx\edgebox-contour-neumann\coarse_localization2\' dir_es(index).name];
+            es_name = ['D:\hx\edgebox-contour-neumann\coarse_localization3\fine_' dir_es(index).name];
             % 读groundtruth坐标
             fid = fopen(gt_name);
             txt_data = textscan(fid,'%d,%d,%d,%d,%s');
@@ -47,7 +46,7 @@ tp = 0.4;
             %     end
             %     lc_es =  dlmread(es_name);
             fid = fopen(es_name);
-            txt_data = textscan(fid,'%d,%d,%d,%d');
+            txt_data = textscan(fid,'%d,%d,%d,%d,%s');
             fclose(fid);
             num_es = length(txt_data{2});
             lc_es = zeros(num_es,4);

@@ -1,8 +1,8 @@
 %2015/12/18
 %查看下粗定位测评成绩
-function coarse_localization_eval()
-clear
-clc
+function fine_localization_eval(lc_es,indexImg)
+% clear
+% clc
 
 % dir_gt = dir('E:\2012 文字检测\测试集\ICDAR 2011\test-textloc-gt\*.txt');
 % dir_gt = dir('G:\数据\icdar2011\test-textloc\*.txt');
@@ -19,12 +19,12 @@ tr = 0.8;
 tp = 0.4;
 % max_t = zeros(5,12);
 
-        for index = 4:4
-                 disp(index)
+       
+%                  disp(index)
 %             gt_name = ['E:\2012 文字检测\测试集\ICDAR 2011\test-textloc-gt\gt_' dir_es(index).name];
-            gt_name = ['D:\hx\edgebox-contour-neumann\train-textloc\gt_' dir_es(index).name];
+            gt_name = ['D:\hx\edgebox-contour-neumann\train-textloc\gt_' dir_es(indexImg).name];
 %             es_name = ['E:\2013毕设文字检测\试验结果\一起训练\location13\' dir_es(index).name];
-            es_name = ['D:\hx\edgebox-contour-neumann\coarse_localization2\' dir_es(index).name];
+%             es_name = ['D:\hx\edgebox-contour-neumann\coarse_localization2\' dir_es(index).name];
             % 读groundtruth坐标
             fid = fopen(gt_name);
             txt_data = textscan(fid,'%d,%d,%d,%d,%s');
@@ -46,17 +46,17 @@ tp = 0.4;
             %         continue
             %     end
             %     lc_es =  dlmread(es_name);
-            fid = fopen(es_name);
-            txt_data = textscan(fid,'%d,%d,%d,%d');
-            fclose(fid);
-            num_es = length(txt_data{2});
-            lc_es = zeros(num_es,4);
-            for i = 1:num_es
-                lc_es(i,1) = txt_data{1}(i);
-                lc_es(i,2) = txt_data{2}(i);
-                lc_es(i,3) = txt_data{3}(i)+txt_data{1}(i);
-                lc_es(i,4) = txt_data{4}(i)+txt_data{2}(i);
-            end
+%             fid = fopen(es_name);
+%             txt_data = textscan(fid,'%d,%d,%d,%d');
+%             fclose(fid);
+%             num_es = length(txt_data{2});
+%             lc_es = zeros(num_es,4);
+%             for i = 1:num_es
+%                 lc_es(i,1) = txt_data{1}(i);
+%                 lc_es(i,2) = txt_data{2}(i);
+%                 lc_es(i,3) = txt_data{3}(i)+txt_data{1}(i);
+%                 lc_es(i,4) = txt_data{4}(i)+txt_data{2}(i);
+%             end
             num_gt = size(lc_gt,1);
             num_es = size(lc_es,1);
             pm = zeros(num_gt,num_es);   %precision 矩阵
@@ -95,12 +95,12 @@ tp = 0.4;
                     
                 end
             end
-            p_each(index) = value_each_p/num_es;
+            p_each(indexImg) = value_each_p/num_es;
             value_pr_rect = value_pr_rect + value_each_p;
             % 计算查全率
             num_gt_rect = num_gt_rect + num_gt;
             if num_es == 0
-                continue
+                return;
             end
             value_each_r = 0;
             for i = 1:num_gt
@@ -116,13 +116,13 @@ tp = 0.4;
                     value_each_r = value_each_r + double(rm_vec(index_des)>tr&&sum(pm(:,index_des))>tp);
                 end
             end
-            r_each(index) = value_each_r/num_gt;
+            r_each(indexImg) = value_each_r/num_gt;
             value_rc_rect = value_rc_rect + value_each_r;
-        end
-        recall = value_rc_rect/num_gt_rect;
-        precision = value_pr_rect/num_es_rect;
-        f = 2/(1/recall+1/precision);
-         disp([recall  precision f])
+       
+        fine_localization_recall = value_rc_rect/num_gt_rect
+        fine_localization_precision = value_pr_rect/num_es_rect
+        fine_localization_f = 2/(1/fine_localization_recall+1/fine_localization_precision)
+%          disp([recall  precision f])
 %         index_x = int32((tr - 0.3)*10);
 %         index_y = int32((tp - 0.3)*10);
 %         max_t(index_y,(index_x - 1)*3 + 1) = precision;

@@ -23,8 +23,8 @@ scales=32.0/img_hight;
 % [responses ,scales]= computeResponses_orig(img, filterStack);
 
 % fprintf('Finding lines...\n');
-img_result1 = findBoxesFull(responses,scales);
-img_result2=visualizeBoxes_12_3(img, img_result1);
+img_result1 = findBoxesFull(responses,scales,img);
+% img_result2=visualizeBoxes_12_3(img, img_result1);
 
 % if exist('outputDir')
 %   system(['mkdir -p ', outputDir]);
