@@ -12,6 +12,23 @@ predwords = [];
 %如果粗定位后的结果只有一个bounding box，那么直接求识别分数；若不足阈值，再一遍粗定位（CNN？edgebox?)
 % 粗定位只得到一个bbox时，无需beam search/分割；而要做识别和后处理。
 if size(gtRes2,1)==1&&gtRes2(1,3)/gtRes2(1,4)<10
+    
+    %1/20 细定位查全只有47%很大原因在这里没有求fine_bboxes
+    
+    tempbbox_1=zeros(1,5);
+    
+    tempbbox_1(2)=gtRes2(1,2);
+  
+    tempbbox_1(4) =gtRes2(1,4);
+   
+    tempbbox_1(1) =gtRes2(1,1);
+    
+    tempbbox_1(3) =gtRes2(1,3);
+    
+    tempbbox_1(5)= 2;
+    
+    fine_bboxes=[fine_bboxes;tempbbox_1];
+    
     im=g(max(gtRes2(1,2),1):min((gtRes2(1,2)+gtRes2(1,4)),height),max(gtRes2(1,1),1):min((gtRes2(1,1)+gtRes2(1,3)),width));
     if size(im, 3) > 1, im = rgb2gray(im); end;
     im = imresize(im, [32, 100]);
@@ -57,7 +74,9 @@ else
             % 从粗定位文本行中用CNN检测子进行细定位：
             for bidx = 1:numbbox
                 %细定位的过滤步骤：
-                if bboxes(bidx,5)>0.8 && length(spaces(bidx).locations)<5
+%                 1.20将thresh由0.7降，提高查全
+%               做个试验：不顾及查准（即不考虑bboxes(bidx,5)>0.3）的情况下的测评成绩。bboxes(bidx,5)>0.3 &&
+                if  length(spaces(bidx).locations)<5
                     %  beam search/分割从这里就开始了
                     x = bboxes(bidx,1);
                     y = bboxes(bidx,2);

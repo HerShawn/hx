@@ -23,7 +23,7 @@ tp = 0.4;
 %             gt_name = ['E:\2012 文字检测\测试集\ICDAR 2011\test-textloc-gt\gt_' dir_es(index).name];
             gt_name = ['D:\hx\edgebox-contour-neumann\train-textloc\gt_' dir_es(index).name];
 %             es_name = ['E:\2013毕设文字检测\试验结果\一起训练\location13\' dir_es(index).name];
-            es_name = ['D:\hx\edgebox-contour-neumann\coarse_localization3\fine_' dir_es(index).name];
+            es_name = ['D:\hx\edgebox-contour-neumann\fine_localization\' dir_es(index).name];
             % 读groundtruth坐标
             fid = fopen(gt_name);
             txt_data = textscan(fid,'%d,%d,%d,%d,%s');
@@ -46,7 +46,7 @@ tp = 0.4;
             %     end
             %     lc_es =  dlmread(es_name);
             fid = fopen(es_name);
-            txt_data = textscan(fid,'%d,%d,%d,%d,%s');
+            txt_data = textscan(fid,'%d,%d,%d,%d');
             fclose(fid);
             num_es = length(txt_data{2});
             lc_es = zeros(num_es,4);

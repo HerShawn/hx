@@ -25,7 +25,7 @@ totalTrueBbox=0;
 totalPredBbox=0;
 totalGoodBbox=0;
 total_edit_distance=0;
-for indexImg =1:2
+for indexImg =1:num_img
     %% 粗定位阶段
     disp(['第' num2str(indexImg+99) '张图']);
     img_value = dir_img(indexImg).name;
@@ -58,10 +58,7 @@ for indexImg =1:2
         gt=coarse_localization(g,gt,model,opts);
     else
     end
-%     figure(indexImg);
-%     bbGt('showRes',g,gt,gt);
-%     save_name=[do_dir 'coarse_localization2\' img_value '.jpg'];
-%     print(indexImg, '-dpng', save_name);
+
 %     target_txt_name = [do_dir 'coarse_localization3\coarse_' img_value '.txt'];
 %     dlmwrite(target_txt_name, gt);
 
@@ -72,22 +69,30 @@ for indexImg =1:2
     %CHAR&EDIT DISTANCE
     %     fine_localization_12_8(img_gt,gt,g);
     % DICT&WRA
-    fine_bboxes=fine_localization_dict_wra(img_gt,gt,g);
+%     fine_bboxes=fine_localization_dict_wra(img_gt,gt,g);
    
-    fine_bboxes=fine_bboxes(:,1:4);
-    fine_bboxes(:,3)=fine_bboxes(:,1)+fine_bboxes(:,3);
-    fine_bboxes(:,4)=fine_bboxes(:,2)+fine_bboxes(:,4);
+%     fine_bboxes=fine_bboxes(:,1:4);
+%     fine_bboxes(:,3)=fine_bboxes(:,1)+fine_bboxes(:,3);
+%     fine_bboxes(:,4)=fine_bboxes(:,2)+fine_bboxes(:,4);
+
     % DICT&EDIT DISTANCE
     %     fine_localization_dict_ed(img_gt,gt,g);
     
-    %target_txt_name = [do_dir 'coarse_localization5\fine_' img_value '.txt'];
+    target_txt_name = [do_dir 'fine_localization\' img_value '.txt'];
     %2016/2/22 试着将检测结果提交给ICDAR2015进行测评
-    target_txt_name = [do_dir 'fine_localization\res_img_' num2str(indexImg) '.txt'];
-    dlmwrite(target_txt_name, fine_bboxes, 'delimiter', ',','newline', 'pc');
+%     target_txt_name = [do_dir 'fine_localization\res_img_' num2str(indexImg) '.txt'];
+    dlmwrite(target_txt_name, gt);
+    
+    figure(indexImg);
+%     fine_bboxes=fine_bboxes(:,1:4);
+    bbGt('showRes',g,gt,gt);
+    save_name=[do_dir 'fine_localization\' img_value '.jpg'];
+    print(indexImg, '-dpng', save_name);
+    
     %% 细定位到此结束
 end
 %% 测评阶段
-% fine_localization_eval2()
-% WRA(precision,recall,fscore);
+%  fine_localization_eval2()
+ WRA(precision,recall,fscore);
 % fprintf('TOTAL_EDIT_DISTANCE =%d\n', total_edit_distance);
 %% 测评到此结束

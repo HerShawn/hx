@@ -17,7 +17,7 @@ opts.beta  = .75;     % nms threshold for object proposals
 opts.minScore = .01;  % min score of boxes to detect
 opts.maxBoxes = 1e4;  % max number of boxes to detect
 do_dir='D:\hx\edgebox-contour-neumann\';
-dir_img = dir([do_dir 'train-textloc\*.jpg'] );
+dir_img = dir([do_dir 'Challenge2_Test_Task12_Images\*.jpg'] );
 num_img = length(dir_img);
 precision = []; recall = []; fscore = [];
 global totalTrueBbox totalPredBbox totalGoodBbox total_edit_distance;
@@ -27,19 +27,19 @@ totalGoodBbox=0;
 total_edit_distance=0;
 for indexImg =1:2
     %% 粗定位阶段
-    disp(['第' num2str(indexImg+99) '张图']);
+    disp(['第' num2str(indexImg) '张图']);
     img_value = dir_img(indexImg).name;
     img_value = img_value(1:end-4);
-    img_name = [do_dir 'train-textloc\' img_value '.jpg'];
+    img_name = [do_dir 'Challenge2_Test_Task12_Images\' img_value '.jpg'];
     g = imread(img_name);
     %按计划，neumann和contour在一个子函数里面融合，将结果存入此txt文件中
-    txt_name = [do_dir 'addContour2Neumann2\' img_value '.txt'];
+    txt_name = [do_dir 'addContour2Neumann2015\res_' img_value '.txt'];
     fid = fopen(txt_name);
     txt_data = textscan(fid,'%d,%d,%d,%d');
     fclose(fid);
     gt=[txt_data{:,1} txt_data{:,2} txt_data{:,3} txt_data{:,4}];
     
-    gt_txt_name=[do_dir 'train-textloc\gt_' img_value '.txt'];
+    gt_txt_name=[do_dir 'Challenge2_Test_Task1_GT\gt_' img_value '.txt'];
     fid = fopen(gt_txt_name);
     txt_data = textscan(fid,'%d,%d,%d,%d,%s');
     fclose(fid);
@@ -82,7 +82,7 @@ for indexImg =1:2
     
     %target_txt_name = [do_dir 'coarse_localization5\fine_' img_value '.txt'];
     %2016/2/22 试着将检测结果提交给ICDAR2015进行测评
-    target_txt_name = [do_dir 'fine_localization\res_img_' num2str(indexImg) '.txt'];
+    target_txt_name = [do_dir 'fine_localization\res_' img_value '.txt'];
     dlmwrite(target_txt_name, fine_bboxes, 'delimiter', ',','newline', 'pc');
     %% 细定位到此结束
 end
